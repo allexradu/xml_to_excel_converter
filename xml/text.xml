@@ -1,0 +1,786 @@
+    <T_NEW_CATALOG>
+        <PRODUCT mode="new">
+            <SUPPLIER_PID>000213</SUPPLIER_PID>
+            <PRODUCT_DETAILS>
+                <DESCRIPTION_SHORT lang="eng">Back-up battery for compact PLC PS3</DESCRIPTION_SHORT>
+                <DESCRIPTION_SHORT lang="deu">Pufferbatterie für Kompaktsteuerung PS3</DESCRIPTION_SHORT>
+                <DESCRIPTION_SHORT lang="fra">Pile de sauvegarde pour automate compact PS3</DESCRIPTION_SHORT>
+                <DESCRIPTION_SHORT lang="nld">Bufferbatterij voor compacte PLC PS3</DESCRIPTION_SHORT>
+                <DESCRIPTION_SHORT lang="rus">Резервная батарея для компактного контроллера PS3</DESCRIPTION_SHORT>
+                <DESCRIPTION_SHORT lang="ces">ACC., PS3</DESCRIPTION_SHORT>
+                <DESCRIPTION_SHORT lang="pol">Bateria podtrzymująca do kompaktowego sterownika PS3</DESCRIPTION_SHORT>
+                <DESCRIPTION_SHORT lang="ita">Batteria tampone per PLC PS3</DESCRIPTION_SHORT>
+                <DESCRIPTION_LONG lang="eng">Back-up battery for compact PLC PS3</DESCRIPTION_LONG>
+                <DESCRIPTION_LONG lang="deu">Pufferbatterie für Kompaktsteuerung PS3</DESCRIPTION_LONG>
+                <DESCRIPTION_LONG lang="fra">Pile de sauvegarde pour automate compact PS3</DESCRIPTION_LONG>
+                <DESCRIPTION_LONG lang="nld">Bufferbatterij voor compacte PLC PS3</DESCRIPTION_LONG>
+                <DESCRIPTION_LONG lang="rus">Резервная батарея для компактного контроллера PS3</DESCRIPTION_LONG>
+                <DESCRIPTION_LONG lang="pol">Bateria podtrzymująca do kompaktowego sterownika PS3</DESCRIPTION_LONG>
+                <DESCRIPTION_LONG lang="ita">Batteria tampone per controllore compatto PS3</DESCRIPTION_LONG>
+                <INTERNATIONAL_PID type="GTIN">4015080002130</INTERNATIONAL_PID>
+                <SUPPLIER_ALT_PID>000213</SUPPLIER_ALT_PID>
+                <MANUFACTURER_PID>000213</MANUFACTURER_PID>
+                <MANUFACTURER_NAME>Eaton</MANUFACTURER_NAME>
+                <MANUFACTURER_TYPE_DESCR>B-PS3</MANUFACTURER_TYPE_DESCR>
+                <SPECIAL_TREATMENT_CLASS type="NOT_RELEVANT">NONE</SPECIAL_TREATMENT_CLASS>
+                <KEYWORD lang="ces">Baterie pro PS3</KEYWORD>
+                <KEYWORD lang="ces">příslušenství pro PLC</KEYWORD>
+                <KEYWORD lang="ces">příslušenství pro automatizaci</KEYWORD>
+                <KEYWORD lang="ces">zálohová baterie</KEYWORD>
+                <KEYWORD lang="ces">zálohování</KEYWORD>
+                <KEYWORD lang="nld">batterij voor PS3</KEYWORD>
+                <KEYWORD lang="nld">bufferbatterij</KEYWORD>
+                <KEYWORD lang="nld">buffering</KEYWORD>
+                <KEYWORD lang="nld">toebehoren voor PLC</KEYWORD>
+                <KEYWORD lang="nld">toebehoren voor automatisering</KEYWORD>
+                <KEYWORD lang="eng">accessories for PLC</KEYWORD>
+                <KEYWORD lang="eng">accessories for automation</KEYWORD>
+                <KEYWORD lang="eng">back-up</KEYWORD>
+                <KEYWORD lang="eng">back-up battery</KEYWORD>
+                <KEYWORD lang="eng">battery for PS3</KEYWORD>
+                <KEYWORD lang="fra">equipements complémentaires pour API</KEYWORD>
+                <KEYWORD lang="fra">equipements complémentaires pour automatisation</KEYWORD>
+                <KEYWORD lang="fra">pile de sauvegarde</KEYWORD>
+                <KEYWORD lang="fra">pile pour PS3</KEYWORD>
+                <KEYWORD lang="fra">sauvegarde par piles</KEYWORD>
+                <KEYWORD lang="deu">Batterie für PS3</KEYWORD>
+                <KEYWORD lang="deu">Pufferbatterie</KEYWORD>
+                <KEYWORD lang="deu">Pufferung</KEYWORD>
+                <KEYWORD lang="deu">Zubehör für Automatisierung</KEYWORD>
+                <KEYWORD lang="deu">Zubehör für SPS</KEYWORD>
+                <KEYWORD lang="ita">accessori per PLC</KEYWORD>
+                <KEYWORD lang="ita">accessori per l'automazione</KEYWORD>
+                <KEYWORD lang="ita">batteria per PS3</KEYWORD>
+                <KEYWORD lang="ita">batteria tampone</KEYWORD>
+                <KEYWORD lang="ita">ritenzione</KEYWORD>
+                <KEYWORD lang="pol">Bateria podtrzymująca</KEYWORD>
+                <KEYWORD lang="pol">akcesoria do PLC</KEYWORD>
+                <KEYWORD lang="pol">akcesoria do automatyzacji</KEYWORD>
+                <KEYWORD lang="pol">buforowanie</KEYWORD>
+                <KEYWORD lang="rus">батарея для PS3</KEYWORD>
+                <KEYWORD lang="rus">буферная батарея</KEYWORD>
+                <KEYWORD lang="rus">принадлежности для ПЛК</KEYWORD>
+                <KEYWORD lang="rus">принадлежности техники автоматизации</KEYWORD>
+                <KEYWORD lang="rus">резервное время</KEYWORD>
+            </PRODUCT_DETAILS>
+            <PRODUCT_FEATURES>
+                <REFERENCE_FEATURE_SYSTEM_NAME>ETIM-7.0</REFERENCE_FEATURE_SYSTEM_NAME>
+                <REFERENCE_FEATURE_GROUP_ID>EC002584</REFERENCE_FEATURE_GROUP_ID>
+                <FEATURE>
+                    <FNAME>EF005722</FNAME>
+                    <FVALUE>EV009162</FVALUE>
+                </FEATURE>
+                <FEATURE>
+                    <FNAME>EF005994</FNAME>
+                    <FVALUE>EV000154</FVALUE>
+                </FEATURE>
+            </PRODUCT_FEATURES>
+            <PRODUCT_ORDER_DETAILS>
+                <ORDER_UNIT>C62</ORDER_UNIT>
+                <CONTENT_UNIT>C62</CONTENT_UNIT>
+                <NO_CU_PER_OU>1</NO_CU_PER_OU>
+                <PRICE_QUANTITY>1</PRICE_QUANTITY>
+                <QUANTITY_MIN>2</QUANTITY_MIN>
+                <QUANTITY_INTERVAL>2</QUANTITY_INTERVAL>
+            </PRODUCT_ORDER_DETAILS>
+            <PRODUCT_PRICE_DETAILS>
+                <DATETIME type="valid_start_date">
+                    <DATE>2020-04-16</DATE>
+                </DATETIME>
+                <PRODUCT_PRICE price_type="net_list">
+                    <PRICE_AMOUNT>99999.99</PRICE_AMOUNT>
+                    <PRICE_CURRENCY>EUR</PRICE_CURRENCY>
+                    <TAX>0.19</TAX>
+                    <LOWER_BOUND>1</LOWER_BOUND>
+                </PRODUCT_PRICE>
+            </PRODUCT_PRICE_DETAILS>
+            <MIME_INFO>
+                <MIME>
+                    <MIME_TYPE>url</MIME_TYPE>
+                    <MIME_SOURCE>https://pl.eaton.com/image?doc_name=B-PS3&amp;type=preview</MIME_SOURCE>
+                    <MIME_DESCR>MD01</MIME_DESCR>
+                    <MIME_PURPOSE>normal</MIME_PURPOSE>
+                </MIME>
+                <MIME>
+                    <MIME_TYPE>url</MIME_TYPE>
+                    <MIME_SOURCE>https://pl.eaton.com/image?doc_name=B-PS3&amp;type=TIFDetail</MIME_SOURCE>
+                    <MIME_DESCR>MD01</MIME_DESCR>
+                    <MIME_PURPOSE>detail</MIME_PURPOSE>
+                </MIME>
+                <MIME>
+                    <MIME_TYPE>url</MIME_TYPE>
+                    <MIME_SOURCE>https://datasheet.eaton.com/datasheet.php?model=000213&amp;locale=en_GB</MIME_SOURCE>
+                    <MIME_DESCR>MD04</MIME_DESCR>
+                    <MIME_PURPOSE>data_sheet</MIME_PURPOSE>
+                </MIME>
+                <MIME>
+                    <MIME_TYPE>url</MIME_TYPE>
+                    <MIME_SOURCE>https://datasheet.eaton.com/datasheet.php?model=000213&amp;locale=de_DE</MIME_SOURCE>
+                    <MIME_DESCR>MD04</MIME_DESCR>
+                    <MIME_PURPOSE>data_sheet</MIME_PURPOSE>
+                </MIME>
+                <MIME>
+                    <MIME_TYPE>url</MIME_TYPE>
+                    <MIME_SOURCE>https://datasheet.eaton.com/datasheet.php?model=000213&amp;locale=fr_FR</MIME_SOURCE>
+                    <MIME_DESCR>MD04</MIME_DESCR>
+                    <MIME_PURPOSE>data_sheet</MIME_PURPOSE>
+                </MIME>
+                <MIME>
+                    <MIME_TYPE>url</MIME_TYPE>
+                    <MIME_SOURCE>https://datasheet.eaton.com/datasheet.php?model=000213&amp;locale=nl_NL</MIME_SOURCE>
+                    <MIME_DESCR>MD04</MIME_DESCR>
+                    <MIME_PURPOSE>data_sheet</MIME_PURPOSE>
+                </MIME>
+                <MIME>
+                    <MIME_TYPE>url</MIME_TYPE>
+                    <MIME_SOURCE>https://datasheet.eaton.com/datasheet.php?model=000213&amp;locale=es</MIME_SOURCE>
+                    <MIME_DESCR>MD04</MIME_DESCR>
+                    <MIME_PURPOSE>data_sheet</MIME_PURPOSE>
+                </MIME>
+                <MIME>
+                    <MIME_TYPE>url</MIME_TYPE>
+                    <MIME_SOURCE>https://datasheet.eaton.com/datasheet.php?model=000213&amp;locale=ru</MIME_SOURCE>
+                    <MIME_DESCR>MD04</MIME_DESCR>
+                    <MIME_PURPOSE>data_sheet</MIME_PURPOSE>
+                </MIME>
+                <MIME>
+                    <MIME_TYPE>url</MIME_TYPE>
+                    <MIME_SOURCE>https://datasheet.eaton.com/datasheet.php?model=000213&amp;locale=cs</MIME_SOURCE>
+                    <MIME_DESCR>MD04</MIME_DESCR>
+                    <MIME_PURPOSE>data_sheet</MIME_PURPOSE>
+                </MIME>
+                <MIME>
+                    <MIME_TYPE>url</MIME_TYPE>
+                    <MIME_SOURCE>https://datasheet.eaton.com/datasheet.php?model=000213&amp;locale=pl</MIME_SOURCE>
+                    <MIME_DESCR>MD04</MIME_DESCR>
+                    <MIME_PURPOSE>data_sheet</MIME_PURPOSE>
+                </MIME>
+                <MIME>
+                    <MIME_TYPE>url</MIME_TYPE>
+                    <MIME_SOURCE>https://datasheet.eaton.com/datasheet.php?model=000213&amp;locale=it</MIME_SOURCE>
+                    <MIME_DESCR>MD04</MIME_DESCR>
+                    <MIME_PURPOSE>data_sheet</MIME_PURPOSE>
+                </MIME>
+                <MIME>
+                    <MIME_TYPE>url</MIME_TYPE>
+                    <MIME_SOURCE>https://datasheet.eaton.com/datasheet.php?model=000213&amp;locale=nb</MIME_SOURCE>
+                    <MIME_DESCR>MD04</MIME_DESCR>
+                    <MIME_PURPOSE>data_sheet</MIME_PURPOSE>
+                </MIME>
+                <MIME>
+                    <MIME_TYPE>url</MIME_TYPE>
+                    <MIME_SOURCE>https://datasheet.eaton.com/datasheet.php?model=000213&amp;locale=da</MIME_SOURCE>
+                    <MIME_DESCR>MD04</MIME_DESCR>
+                    <MIME_PURPOSE>data_sheet</MIME_PURPOSE>
+                </MIME>
+            </MIME_INFO>
+            <USER_DEFINED_EXTENSIONS>
+                <UDX.EDXF.DISCOUNT_GROUP>
+                    <UDX.EDXF.DISCOUNT_GROUP_MANUFACTURER>999</UDX.EDXF.DISCOUNT_GROUP_MANUFACTURER>
+                </UDX.EDXF.DISCOUNT_GROUP>
+                <UDX.EDXF.PACKING_UNITS>
+                    <UDX.EDXF.PACKING_UNIT>
+                        <UDX.EDXF.QUANTITY_MIN>1</UDX.EDXF.QUANTITY_MIN>
+                        <UDX.EDXF.QUANTITY_MAX>1</UDX.EDXF.QUANTITY_MAX>
+                        <UDX.EDXF.PACKING_UNIT_CODE>CS</UDX.EDXF.PACKING_UNIT_CODE>
+                        <UDX.EDXF.VOLUME>0.0000</UDX.EDXF.VOLUME>
+                        <UDX.EDXF.WEIGHT>0.0140</UDX.EDXF.WEIGHT>
+                        <UDX.EDXF.LENGTH>0.0300</UDX.EDXF.LENGTH>
+                        <UDX.EDXF.WIDTH>0.0120</UDX.EDXF.WIDTH>
+                        <UDX.EDXF.DEPTH>0.0120</UDX.EDXF.DEPTH>
+                        <UDX.EDXF.GTIN>4015080002130</UDX.EDXF.GTIN>
+                    </UDX.EDXF.PACKING_UNIT>
+                    <UDX.EDXF.PACKING_UNIT>
+                        <UDX.EDXF.QUANTITY_MIN>2</UDX.EDXF.QUANTITY_MIN>
+                        <UDX.EDXF.QUANTITY_MAX>2</UDX.EDXF.QUANTITY_MAX>
+                        <UDX.EDXF.PACKING_UNIT_CODE>CT</UDX.EDXF.PACKING_UNIT_CODE>
+                        <UDX.EDXF.VOLUME>0.00013</UDX.EDXF.VOLUME>
+                        <UDX.EDXF.WEIGHT>0.0280</UDX.EDXF.WEIGHT>
+                        <UDX.EDXF.LENGTH>0.0590</UDX.EDXF.LENGTH>
+                        <UDX.EDXF.WIDTH>0.0480</UDX.EDXF.WIDTH>
+                        <UDX.EDXF.DEPTH>0.0460</UDX.EDXF.DEPTH>
+                        <UDX.EDXF.GTIN>4015081825189</UDX.EDXF.GTIN>
+                    </UDX.EDXF.PACKING_UNIT>
+                </UDX.EDXF.PACKING_UNITS>
+                <UDX.EDXF.PRODUCT_LOGISTIC_DETAILS>
+                    <UDX.EDXF.NETWEIGHT>0.0130</UDX.EDXF.NETWEIGHT>
+                </UDX.EDXF.PRODUCT_LOGISTIC_DETAILS>
+                <UDX.EDXF.REACH>
+                    <UDX.EDXF.REACH.LISTDATE>2020-04-14</UDX.EDXF.REACH.LISTDATE>
+                    <UDX.EDXF.REACH.INFO>false</UDX.EDXF.REACH.INFO>
+                </UDX.EDXF.REACH>
+            </USER_DEFINED_EXTENSIONS>
+            <PRODUCT_LOGISTIC_DETAILS>
+                <CUSTOMS_TARIFF_NUMBER>
+                    <CUSTOMS_NUMBER>85065010</CUSTOMS_NUMBER>
+                </CUSTOMS_TARIFF_NUMBER>
+                <STATISTICS_FACTOR>1</STATISTICS_FACTOR>
+                <COUNTRY_OF_ORIGIN>DE</COUNTRY_OF_ORIGIN>
+            </PRODUCT_LOGISTIC_DETAILS>
+        </PRODUCT>
+        <PRODUCT mode="new">
+            <SUPPLIER_PID>002285</SUPPLIER_PID>
+            <PRODUCT_DETAILS>
+                <DESCRIPTION_SHORT lang="eng">Busbar terminal, for CU20x5(x10, x15)</DESCRIPTION_SHORT>
+                <DESCRIPTION_SHORT lang="deu">Sammelschienenklemme, für CU20x5(x10,x15)</DESCRIPTION_SHORT>
+                <DESCRIPTION_SHORT lang="fra">Borne pour jeux de barres, pour CU20x5(x10, x15)</DESCRIPTION_SHORT>
+                <DESCRIPTION_SHORT lang="nld">Railsysteemklem, voor CU20x5(x10, x15)</DESCRIPTION_SHORT>
+                <DESCRIPTION_SHORT lang="rus">Шинная клемма, для CU20x5 ( x10, x15 )</DESCRIPTION_SHORT>
+                <DESCRIPTION_SHORT lang="ces">Svorka, pro CU20x5(x10, x15)</DESCRIPTION_SHORT>
+                <DESCRIPTION_SHORT lang="pol">Zacisk do szyn zbiorczych, do CU20x5(x10, x15)</DESCRIPTION_SHORT>
+                <DESCRIPTION_SHORT lang="ita">Morsetto sbarra collettrice, per CU20x5(x10, x15)</DESCRIPTION_SHORT>
+                <DESCRIPTION_LONG lang="eng">Ultra-flat busbar terminal, terminal capacity for round cable=re 1.5-10 or rf 1.5-6mm², terminal capacity for flat cable=3x9x0.8 or 6x9x0.8 or 4x16x0.8 or 6x16x0.8 or 10x16x0.8 or 11x21x1, for Cu 20x10 / 20x15 busbars, rated operational current Ie=630A</DESCRIPTION_LONG>
+                <DESCRIPTION_LONG lang="deu">Ultraflach-Sammelschienenklemme, Anschlussquerschnitt Rundleiter=re 1.5-10 oder rf 1.5-6qmm, Anschlussquerschnitt Bandleiter=3x9x0.8 oder 6x9x0.8 oder 4x16x0.8 oder 6x16x0.8 oder 10x16x0.8 oder 11x21x1, für Schienen Cu 20x10 / 20x15, Bemessungsbetriebsstrom Ie=630A</DESCRIPTION_LONG>
+                <DESCRIPTION_LONG lang="fra">Borne pour jeux de barres ultra-plate, sections raccordables pour conducteurs ronds=re 1.5-10 ou rf 1.5-6mm², section raccordable pour câble plat=3x9x0.8 ou 6x9x0.8 ou 4x16x0.8 ou 6x16x0.8 ou 10x16x0.8 ou 11x21x1, pour barres Cu 20x10 / 20x15, courant assigné d'emploi Ie=630A</DESCRIPTION_LONG>
+                <DESCRIPTION_LONG lang="nld">Railsysteemklem, aansluitdoorsnede rondkabel=re 1.5-10 of rf 1.5-6mm², aansluitdoorsnede vlakbandkabel=3x9x0.8 of 6x9x0.8 of 4x16x0.8 of 6x16x0.8 of 10x16x0.8 of 11x21x1, voor rails Cu 20x10 / 20x15, nominale bedrijfsstroom Ie=630A</DESCRIPTION_LONG>
+                <DESCRIPTION_LONG lang="rus">Шинная клемма, для CU20x5 ( x10, x15 )</DESCRIPTION_LONG>
+                <DESCRIPTION_LONG lang="ces">Tenká svorka, průřez připojení kruhového kabelu=re 1,5-10 nebo rf 1,5-6 mm², průřez připojení plochého kabelu=3x9x0,8 nebo 6x9x0,8 nebo 4x16x0,8 nebo 6x16x0,8 nebo 10x16x0,8 nebo 11x21x1, pro přípojnice Cu 20x10 / 20x15, jmenovitý povozní proud Ie=630A</DESCRIPTION_LONG>
+                <DESCRIPTION_LONG lang="pol">Zacisk na płaską szynę miedzianą, przekrój przyłącza przewodu okrągłego=re 1.5-10 lub rf 1.5-6mmkw, przekrój przyłącza przewodu taśmowego=3x9x0.8 lub 6x9x0.8 lub 4x16x0.8 lub 6x16x0.8 lub 10x16x0.8 lub 11x21x1, do szyn Cu 20x10 / 20x15, znamionowy prąd pracy Ie=630A</DESCRIPTION_LONG>
+                <DESCRIPTION_LONG lang="ita">Morsetto sbarra collettrice ultrapiatto, sezione di collegamento conduttore circolare=rigido 1.5-10 o flessibile 1.5-6mm², sezione di collegamento cavo piatto=3x9x0.8 o 6x9x0.8 o 4x16x0.8 o 6x16x0.8 o 10x16x0.8 o 11x21x1, per sbarre in Cu 20x10 / 20x15, corrente nominale d'impiego Ie=630A</DESCRIPTION_LONG>
+                <INTERNATIONAL_PID type="GTIN">4015080022855</INTERNATIONAL_PID>
+                <SUPPLIER_ALT_PID>002285</SUPPLIER_ALT_PID>
+                <MANUFACTURER_PID>002285</MANUFACTURER_PID>
+                <MANUFACTURER_NAME>Eaton</MANUFACTURER_NAME>
+                <MANUFACTURER_TYPE_DESCR>K20X15/40</MANUFACTURER_TYPE_DESCR>
+                <SPECIAL_TREATMENT_CLASS type="NOT_RELEVANT">NONE</SPECIAL_TREATMENT_CLASS>
+                <KEYWORD lang="ces">Typy svorek</KEYWORD>
+                <KEYWORD lang="ces">svorka</KEYWORD>
+                <KEYWORD lang="ces">svorka sběrnice</KEYWORD>
+                <KEYWORD lang="ces">svorky</KEYWORD>
+                <KEYWORD lang="ces">systém přípojnic</KEYWORD>
+                <KEYWORD lang="nld">aansluittechniek</KEYWORD>
+                <KEYWORD lang="nld">klem</KEYWORD>
+                <KEYWORD lang="nld">railkanaalsysteem</KEYWORD>
+                <KEYWORD lang="nld">railklem</KEYWORD>
+                <KEYWORD lang="nld">railsysteemklemmen</KEYWORD>
+                <KEYWORD lang="eng">busbar system</KEYWORD>
+                <KEYWORD lang="eng">busbar terminal</KEYWORD>
+                <KEYWORD lang="eng">busbar terminals</KEYWORD>
+                <KEYWORD lang="eng">terminal</KEYWORD>
+                <KEYWORD lang="eng">terminal type</KEYWORD>
+                <KEYWORD lang="fra">borne</KEYWORD>
+                <KEYWORD lang="fra">borne de jonction sur barre</KEYWORD>
+                <KEYWORD lang="fra">bornes pour jeux de barres</KEYWORD>
+                <KEYWORD lang="fra">jeu de barres</KEYWORD>
+                <KEYWORD lang="fra">technique de raccordement</KEYWORD>
+                <KEYWORD lang="deu">Anschlusstechnik</KEYWORD>
+                <KEYWORD lang="deu">Klemme</KEYWORD>
+                <KEYWORD lang="deu">Sammelschienenklemmen</KEYWORD>
+                <KEYWORD lang="deu">Sammelschienensystem</KEYWORD>
+                <KEYWORD lang="deu">Schienenklemme</KEYWORD>
+                <KEYWORD lang="ita">morsetti per sbarre</KEYWORD>
+                <KEYWORD lang="ita">morsetto</KEYWORD>
+                <KEYWORD lang="ita">morsetto per sbarre</KEYWORD>
+                <KEYWORD lang="ita">sistema a sbarre</KEYWORD>
+                <KEYWORD lang="ita">tecnica di collegamento</KEYWORD>
+                <KEYWORD lang="pol">Sposób podłączenia</KEYWORD>
+                <KEYWORD lang="pol">system szyny zbiorczej</KEYWORD>
+                <KEYWORD lang="pol">zacisk</KEYWORD>
+                <KEYWORD lang="pol">zacisk szyny</KEYWORD>
+                <KEYWORD lang="pol">zaciski do szyn zbiorczych</KEYWORD>
+                <KEYWORD lang="rus">зажим шины</KEYWORD>
+                <KEYWORD lang="rus">клемма</KEYWORD>
+                <KEYWORD lang="rus">клеммы токовых шин</KEYWORD>
+                <KEYWORD lang="rus">модульная шинная система</KEYWORD>
+                <KEYWORD lang="rus">соединительная техника</KEYWORD>
+            </PRODUCT_DETAILS>
+            <PRODUCT_FEATURES>
+                <REFERENCE_FEATURE_SYSTEM_NAME>ETIM-7.0</REFERENCE_FEATURE_SYSTEM_NAME>
+                <REFERENCE_FEATURE_GROUP_ID>EC000001</REFERENCE_FEATURE_GROUP_ID>
+                <FEATURE>
+                    <FNAME>EF007220</FNAME>
+                    <FVALUE>5</FVALUE>
+                    <FVALUE>10</FVALUE>
+                </FEATURE>
+                <FEATURE>
+                    <FNAME>EF007219</FNAME>
+                    <FVALUE>20</FVALUE>
+                    <FVALUE>20</FVALUE>
+                </FEATURE>
+                <FEATURE>
+                    <FNAME>EF000073</FNAME>
+                    <FVALUE>EV009241</FVALUE>
+                </FEATURE>
+                <FEATURE>
+                    <FNAME>EF007092</FNAME>
+                    <FVALUE>32</FVALUE>
+                </FEATURE>
+                <FEATURE>
+                    <FNAME>EF004969</FNAME>
+                    <FVALUE>124</FVALUE>
+                </FEATURE>
+                <FEATURE>
+                    <FNAME>EF007356</FNAME>
+                    <FVALUE>400</FVALUE>
+                </FEATURE>
+                <FEATURE>
+                    <FNAME>EF007258</FNAME>
+                    <FVALUE>true</FVALUE>
+                </FEATURE>
+                <FEATURE>
+                    <FNAME>EF007260</FNAME>
+                    <FVALUE>false</FVALUE>
+                </FEATURE>
+                <FEATURE>
+                    <FNAME>EF007242</FNAME>
+                    <FVALUE>true</FVALUE>
+                </FEATURE>
+            </PRODUCT_FEATURES>
+            <PRODUCT_ORDER_DETAILS>
+                <ORDER_UNIT>C62</ORDER_UNIT>
+                <CONTENT_UNIT>C62</CONTENT_UNIT>
+                <NO_CU_PER_OU>1</NO_CU_PER_OU>
+                <PRICE_QUANTITY>1</PRICE_QUANTITY>
+                <QUANTITY_MIN>1</QUANTITY_MIN>
+                <QUANTITY_INTERVAL>1</QUANTITY_INTERVAL>
+            </PRODUCT_ORDER_DETAILS>
+            <PRODUCT_PRICE_DETAILS>
+                <DATETIME type="valid_start_date">
+                    <DATE>2020-04-16</DATE>
+                </DATETIME>
+                <PRODUCT_PRICE price_type="net_list">
+                    <PRICE_AMOUNT>99999.99</PRICE_AMOUNT>
+                    <PRICE_CURRENCY>EUR</PRICE_CURRENCY>
+                    <TAX>0.19</TAX>
+                    <LOWER_BOUND>1</LOWER_BOUND>
+                </PRODUCT_PRICE>
+            </PRODUCT_PRICE_DETAILS>
+            <MIME_INFO>
+                <MIME>
+                    <MIME_TYPE>url</MIME_TYPE>
+                    <MIME_SOURCE>https://pl.eaton.com/image?doc_name=vt06908&amp;type=preview</MIME_SOURCE>
+                    <MIME_DESCR>MD01</MIME_DESCR>
+                    <MIME_PURPOSE>normal</MIME_PURPOSE>
+                </MIME>
+                <MIME>
+                    <MIME_TYPE>url</MIME_TYPE>
+                    <MIME_SOURCE>https://pl.eaton.com/image?doc_name=vt06908&amp;type=TIFDetail</MIME_SOURCE>
+                    <MIME_DESCR>MD01</MIME_DESCR>
+                    <MIME_PURPOSE>detail</MIME_PURPOSE>
+                </MIME>
+                <MIME>
+                    <MIME_TYPE>url</MIME_TYPE>
+                    <MIME_SOURCE>https://datasheet.eaton.com/datasheet.php?model=002285&amp;locale=en_GB</MIME_SOURCE>
+                    <MIME_DESCR>MD04</MIME_DESCR>
+                    <MIME_PURPOSE>data_sheet</MIME_PURPOSE>
+                </MIME>
+                <MIME>
+                    <MIME_TYPE>url</MIME_TYPE>
+                    <MIME_SOURCE>https://datasheet.eaton.com/datasheet.php?model=002285&amp;locale=de_DE</MIME_SOURCE>
+                    <MIME_DESCR>MD04</MIME_DESCR>
+                    <MIME_PURPOSE>data_sheet</MIME_PURPOSE>
+                </MIME>
+                <MIME>
+                    <MIME_TYPE>url</MIME_TYPE>
+                    <MIME_SOURCE>https://datasheet.eaton.com/datasheet.php?model=002285&amp;locale=fr_FR</MIME_SOURCE>
+                    <MIME_DESCR>MD04</MIME_DESCR>
+                    <MIME_PURPOSE>data_sheet</MIME_PURPOSE>
+                </MIME>
+                <MIME>
+                    <MIME_TYPE>url</MIME_TYPE>
+                    <MIME_SOURCE>https://datasheet.eaton.com/datasheet.php?model=002285&amp;locale=nl_NL</MIME_SOURCE>
+                    <MIME_DESCR>MD04</MIME_DESCR>
+                    <MIME_PURPOSE>data_sheet</MIME_PURPOSE>
+                </MIME>
+                <MIME>
+                    <MIME_TYPE>url</MIME_TYPE>
+                    <MIME_SOURCE>https://datasheet.eaton.com/datasheet.php?model=002285&amp;locale=es</MIME_SOURCE>
+                    <MIME_DESCR>MD04</MIME_DESCR>
+                    <MIME_PURPOSE>data_sheet</MIME_PURPOSE>
+                </MIME>
+                <MIME>
+                    <MIME_TYPE>url</MIME_TYPE>
+                    <MIME_SOURCE>https://datasheet.eaton.com/datasheet.php?model=002285&amp;locale=ru</MIME_SOURCE>
+                    <MIME_DESCR>MD04</MIME_DESCR>
+                    <MIME_PURPOSE>data_sheet</MIME_PURPOSE>
+                </MIME>
+                <MIME>
+                    <MIME_TYPE>url</MIME_TYPE>
+                    <MIME_SOURCE>https://datasheet.eaton.com/datasheet.php?model=002285&amp;locale=cs</MIME_SOURCE>
+                    <MIME_DESCR>MD04</MIME_DESCR>
+                    <MIME_PURPOSE>data_sheet</MIME_PURPOSE>
+                </MIME>
+                <MIME>
+                    <MIME_TYPE>url</MIME_TYPE>
+                    <MIME_SOURCE>https://datasheet.eaton.com/datasheet.php?model=002285&amp;locale=pl</MIME_SOURCE>
+                    <MIME_DESCR>MD04</MIME_DESCR>
+                    <MIME_PURPOSE>data_sheet</MIME_PURPOSE>
+                </MIME>
+                <MIME>
+                    <MIME_TYPE>url</MIME_TYPE>
+                    <MIME_SOURCE>https://datasheet.eaton.com/datasheet.php?model=002285&amp;locale=it</MIME_SOURCE>
+                    <MIME_DESCR>MD04</MIME_DESCR>
+                    <MIME_PURPOSE>data_sheet</MIME_PURPOSE>
+                </MIME>
+                <MIME>
+                    <MIME_TYPE>url</MIME_TYPE>
+                    <MIME_SOURCE>https://datasheet.eaton.com/datasheet.php?model=002285&amp;locale=nb</MIME_SOURCE>
+                    <MIME_DESCR>MD04</MIME_DESCR>
+                    <MIME_PURPOSE>data_sheet</MIME_PURPOSE>
+                </MIME>
+                <MIME>
+                    <MIME_TYPE>url</MIME_TYPE>
+                    <MIME_SOURCE>https://datasheet.eaton.com/datasheet.php?model=002285&amp;locale=da</MIME_SOURCE>
+                    <MIME_DESCR>MD04</MIME_DESCR>
+                    <MIME_PURPOSE>data_sheet</MIME_PURPOSE>
+                </MIME>
+            </MIME_INFO>
+            <USER_DEFINED_EXTENSIONS>
+                <UDX.EDXF.DISCOUNT_GROUP>
+                    <UDX.EDXF.DISCOUNT_GROUP_MANUFACTURER>999</UDX.EDXF.DISCOUNT_GROUP_MANUFACTURER>
+                </UDX.EDXF.DISCOUNT_GROUP>
+                <UDX.EDXF.PACKING_UNITS>
+                    <UDX.EDXF.PACKING_UNIT>
+                        <UDX.EDXF.QUANTITY_MIN>1</UDX.EDXF.QUANTITY_MIN>
+                        <UDX.EDXF.QUANTITY_MAX>1</UDX.EDXF.QUANTITY_MAX>
+                        <UDX.EDXF.PACKING_UNIT_CODE>CS</UDX.EDXF.PACKING_UNIT_CODE>
+                        <UDX.EDXF.VOLUME>0.00008</UDX.EDXF.VOLUME>
+                        <UDX.EDXF.WEIGHT>0.0750</UDX.EDXF.WEIGHT>
+                        <UDX.EDXF.LENGTH>0.0500</UDX.EDXF.LENGTH>
+                        <UDX.EDXF.WIDTH>0.0400</UDX.EDXF.WIDTH>
+                        <UDX.EDXF.DEPTH>0.0400</UDX.EDXF.DEPTH>
+                        <UDX.EDXF.GTIN>4015080022855</UDX.EDXF.GTIN>
+                    </UDX.EDXF.PACKING_UNIT>
+                    <UDX.EDXF.PACKING_UNIT>
+                        <UDX.EDXF.QUANTITY_MIN>10</UDX.EDXF.QUANTITY_MIN>
+                        <UDX.EDXF.QUANTITY_MAX>10</UDX.EDXF.QUANTITY_MAX>
+                        <UDX.EDXF.PACKING_UNIT_CODE>CT</UDX.EDXF.PACKING_UNIT_CODE>
+                        <UDX.EDXF.VOLUME>0.00078</UDX.EDXF.VOLUME>
+                        <UDX.EDXF.WEIGHT>0.7500</UDX.EDXF.WEIGHT>
+                        <UDX.EDXF.LENGTH>0.1400</UDX.EDXF.LENGTH>
+                        <UDX.EDXF.WIDTH>0.0780</UDX.EDXF.WIDTH>
+                        <UDX.EDXF.DEPTH>0.0710</UDX.EDXF.DEPTH>
+                    </UDX.EDXF.PACKING_UNIT>
+                </UDX.EDXF.PACKING_UNITS>
+                <UDX.EDXF.PRODUCT_LOGISTIC_DETAILS>
+                    <UDX.EDXF.NETWEIGHT>0.0720</UDX.EDXF.NETWEIGHT>
+                </UDX.EDXF.PRODUCT_LOGISTIC_DETAILS>
+                <UDX.EDXF.REACH>
+                    <UDX.EDXF.REACH.LISTDATE>2020-04-14</UDX.EDXF.REACH.LISTDATE>
+                    <UDX.EDXF.REACH.INFO>false</UDX.EDXF.REACH.INFO>
+                </UDX.EDXF.REACH>
+            </USER_DEFINED_EXTENSIONS>
+            <PRODUCT_LOGISTIC_DETAILS>
+                <CUSTOMS_TARIFF_NUMBER>
+                    <CUSTOMS_NUMBER>85389099</CUSTOMS_NUMBER>
+                </CUSTOMS_TARIFF_NUMBER>
+                <STATISTICS_FACTOR>1</STATISTICS_FACTOR>
+                <COUNTRY_OF_ORIGIN>NL</COUNTRY_OF_ORIGIN>
+            </PRODUCT_LOGISTIC_DETAILS>
+        </PRODUCT>
+        <PRODUCT mode="new">
+            <SUPPLIER_PID>000701</SUPPLIER_PID>
+            <PRODUCT_DETAILS>
+                <DESCRIPTION_SHORT lang="eng">Step switches, TM, 10 A, centre mounting, 2 contact unit(s), Contacts: 3, 60 °, maintained, Without 0 (Off) position, 1-3, Design number 8230</DESCRIPTION_SHORT>
+                <DESCRIPTION_SHORT lang="deu">Stufenschalter, TM, 10 A, Zentraleinbau, 2 Baueinheit(en), Kontakte: 3, 60 °, rastend, ohne 0-Stellung, 1-3, Abwicklungsnummer 8230</DESCRIPTION_SHORT>
+                <DESCRIPTION_SHORT lang="fra">Commutateurs à gradins, Contacts: 3, 10 A, plastron: 1-3, 60 °, 3 crans 60°, à accrochage, Montage encastré avec fixation centrale</DESCRIPTION_SHORT>
+                <DESCRIPTION_SHORT lang="nld">Stappenschakelaar, Contacten: 3, 10 A, Frontplaat: 1-3, 60 °, 3 stappen 60°, vast, eengats frontinbouw</DESCRIPTION_SHORT>
+                <DESCRIPTION_SHORT lang="rus">Ступенчатые выключатели, контакты: 3, 10 A, Передняя панель: 1-3, 60 °, 3 уровня 60°, с фиксацией, Центральный монтаж</DESCRIPTION_SHORT>
+                <DESCRIPTION_SHORT lang="ces">Krokový přepínač, 1p, Iu=10A, Čš 1-3, 45°, s aretací, 30x30mm, centrální upevnění</DESCRIPTION_SHORT>
+                <DESCRIPTION_SHORT lang="pol">Łącznik zakresowy, 1b, Iu=10A, TC 1-3, 45°, bez samopowrotu, 30x30mm, montaż centralny</DESCRIPTION_SHORT>
+                <DESCRIPTION_SHORT lang="ita">Interruttori a gradini, Contatti: 3, 10 A, targhetta frontale: 1-3, 60 °, 3 gradini, 60°, permanente, da incasso a fissaggio centrale</DESCRIPTION_SHORT>
+                <DESCRIPTION_LONG lang="eng">Step switch, Product range: Control switches, Standards: IEC/EN 60947, VDE 0660, CSA, UL, Control switch as per IEC/EN 60947-5-1, Auxiliary switch as per IEC/EN 60947-5-1, Part group reference: TM, with black thumb grip and front plate, Contacts: 3, Number of steps: 3 steps, 60°, Degree of Protection: Front IP65, Design: centre mounting, Switching angle: 60 °, Switching performance: maintained, Without 0 (Off) position, 2 contact unit(s), Rated uninterrupted current: Iu= 10 A, front plate: 1-3</DESCRIPTION_LONG>
+                <DESCRIPTION_LONG lang="deu">Stufenschalter, Sortiment: Steuerschalter, Normen und Bestimmungen: IEC/EN 60947, VDE 0660, CSA, UL, Steuerschalter nach IEC/EN 60947-5-1, Hilfsstromschalter nach IEC/EN 60947-5-1, Typkenner: TM, mit schwarzem Knebel und Frontschild, Kontakte: 3, Stufenanzahl: 3 Stufen 60°, Schutzart: Front IP65, Bauform: Zentraleinbau, Schaltwinkel: 60 °, Schaltverhalten: rastend, ohne 0-Stellung, 2 Baueinheit(en), Bemessungsdauerstrom: Iu= 10 A, Frontschild: 1-3</DESCRIPTION_LONG>
+                <DESCRIPTION_LONG lang="fra">Commutateur à gradins, Gamme: Commutateurs de commande, Conformité aux normes: IEC/EN 60947, VDE 0660, CSA, UL, Commutateurs de commande selon IEC/EN 60947-5-1, Contacts auxiliaires à manœuvre positive d'ouverture selon IEC/EN 60947-5-1, Identificateur de type: TM, avec manette noire et plastron, Contacts: 3, Nombre de gradins: 3 crans 60°, Degré de protection: Face avant IP65, Forme: Montage encastré avec fixation centrale, Angles de rotation: 60 °, Comportement de coupure: à accrochage, sans position « 0 », 2 Galette(s), Courant assigné ininterrompu: Iu= 10 A, plastron: 1-3</DESCRIPTION_LONG>
+                <DESCRIPTION_LONG lang="nld">Stappenschakelaar, Assortiment: Stuurschakelaar, normen en bepalingen: IEC/EN 60947, VDE 0660, CSA, UL, Stuurschakelaar conform IEC/EN 60947-5-1, Stuurstroomscheider conform IEC/EN 60947-5-1, Typekenner: TM, Met zwarte draaigreep en frontplaat, Contacten: 3, Aantal niveaus: 3 stappen 60°, beschermingsgraad: Front IP65, Bouwvorm: eengats frontinbouw, Schakelhoek: 60 °, Schakelverhouding: vast, Zonder 0-stand, 2 schakelkamer(s), nominale continu stroom: Iu= 10 A, Frontplaat: 1-3</DESCRIPTION_LONG>
+                <DESCRIPTION_LONG lang="rus">Ступенчатый выключатель, Ассортимент: Управляющий переключатель, Стандарты и предписания: IEC/EN 60947, VDE 0660, CSA, UL, Управляющие переключатели согласно IEC/EN 60947-5-1, Выключатели вспомогательного тока согласно IEC/EN 60947-5-1, Идентификатор типа: TM, с черной перекидной ручкой и с передней панелью, контакты: 3, Число уровней: 3 уровня 60°, Класс защиты: спереди IP65, Конструктивное исполнение: Центральный монтаж, Угол включения: 60 °, Режим коммутации: с фиксацией, без нулевого положения, 2 Модуль (модули), измеренный ток длительной нагрузки: Iu= 10 A, Передняя панель: 1-3</DESCRIPTION_LONG>
+                <DESCRIPTION_LONG lang="ces">Krokové přepínače, Sortiment: Ovládací spínače, Normy a ustanovení: ČSN EN 60947, VDE 0660, CSA, UL, Ovládací spínače podle ČSN/EN 60947-5-1, Pomocné spínače podle ČSN/EN 60947-5-1, Označení typu: TM, s černou pákou a čelním štítkem, Kontakty: 3, Počet stupňů: 3 stupňový 60°, Stupeň krytí: Vpředu IP65, Provedení: Centrální montáž, Spínací úhel: 60 °, Reakce při sepnutí: s aretací, bez polohy 0, 2 Modul(y), Jmenovitý trvalý proud: Iu= 10 A, Čelní štítek: 1-3</DESCRIPTION_LONG>
+                <DESCRIPTION_LONG lang="pol">Łącznik zakresowy, Asortyment: Łącznik sterowniczy, Normy i przepisy: IEC/EN 60947, VDE 0660, CSA, UL, Łącznik sterowniczy zgodne z IEC/EN 60947-5-1, Pomocniczy łącznik prądowy wg normy IEC/EN 60947-5-1, Identyfikator typu: TM, z czarnym pokrętłem i tabliczką czołową, Styki: 3, liczba zakresów: 3 zakresy 60°, Stopień ochrony: Przód IP65, Wykonanie: montaż centralny, Kąt łączenia: 60 °, Przebieg łączenia: bez samopowrotu, bez położenia 0, 2 Zespół montażowy/zespoły montażowe, Pomiarowy prąd stały: Iu= 10 A, Tabliczka czołowa: 1-3</DESCRIPTION_LONG>
+                <DESCRIPTION_LONG lang="ita">Interruttore a gradini, Assortimento: apparecchio di comando, Conformità alle norme: IEC/EN 60947, VDE 0660, CSA, UL, Interruttori di comando secondo IEC/EN 60947-5-1, Sezionatore ausiliario secondo IEC/EN 60947-5-1, Rilevatore tipo: TM, con leva nera e targhetta frontale, Contatti: 3, Numero gradini: 3 gradini, 60°, Grado di protezione: Frontale IP65, Forma costruttiva: da incasso a fissaggio centrale, Angolo di manovra: 60 °, Caratteristica di commutazione: permanente, Senza posizione 0, 2 Unità costruttiva/e, Corrente nominale ininterrotta: Iu= 10 A, targhetta frontale: 1-3</DESCRIPTION_LONG>
+                <INTERNATIONAL_PID type="GTIN">4015080007012</INTERNATIONAL_PID>
+                <SUPPLIER_ALT_PID>000701</SUPPLIER_ALT_PID>
+                <MANUFACTURER_PID>000701</MANUFACTURER_PID>
+                <MANUFACTURER_NAME>Eaton</MANUFACTURER_NAME>
+                <MANUFACTURER_TYPE_DESCR>TM-2-8230/EZ</MANUFACTURER_TYPE_DESCR>
+                <SPECIAL_TREATMENT_CLASS type="NOT_RELEVANT">NONE</SPECIAL_TREATMENT_CLASS>
+                <KEYWORD lang="ces">Centrální vestavný spínač</KEYWORD>
+                <KEYWORD lang="ces">Miniaturní otočné spínače</KEYWORD>
+                <KEYWORD lang="ces">Ovládací spínače</KEYWORD>
+                <KEYWORD lang="ces">Přepínač</KEYWORD>
+                <KEYWORD lang="ces">Stupňový přepínač</KEYWORD>
+                <KEYWORD lang="ces">TM</KEYWORD>
+                <KEYWORD lang="nld">Frontinbouwschakelaar</KEYWORD>
+                <KEYWORD lang="nld">Mininokkenschakelaars</KEYWORD>
+                <KEYWORD lang="nld">Stappenschakelaar</KEYWORD>
+                <KEYWORD lang="nld">TM</KEYWORD>
+                <KEYWORD lang="nld">omschakelaar</KEYWORD>
+                <KEYWORD lang="nld">stuurschakelaar</KEYWORD>
+                <KEYWORD lang="eng">Central flush mounting switch</KEYWORD>
+                <KEYWORD lang="eng">Changeover switch</KEYWORD>
+                <KEYWORD lang="eng">Control switch</KEYWORD>
+                <KEYWORD lang="eng">Mini rotary switches</KEYWORD>
+                <KEYWORD lang="eng">TM</KEYWORD>
+                <KEYWORD lang="eng">step switch</KEYWORD>
+                <KEYWORD lang="fra">Appareil encastré avec fixation centrale</KEYWORD>
+                <KEYWORD lang="fra">Commutateur</KEYWORD>
+                <KEYWORD lang="fra">Commutateur(s) de commande</KEYWORD>
+                <KEYWORD lang="fra">Commutateurs à gradins</KEYWORD>
+                <KEYWORD lang="fra">Mini-commutateurs à cames</KEYWORD>
+                <KEYWORD lang="fra">TM</KEYWORD>
+                <KEYWORD lang="deu">Mininockenschalter</KEYWORD>
+                <KEYWORD lang="deu">Steuerschalter</KEYWORD>
+                <KEYWORD lang="deu">Stufenschalter</KEYWORD>
+                <KEYWORD lang="deu">TM</KEYWORD>
+                <KEYWORD lang="deu">Umschalter</KEYWORD>
+                <KEYWORD lang="deu">Zentraleinbauschalter</KEYWORD>
+                <KEYWORD lang="ita">Apparecchio di comando</KEYWORD>
+                <KEYWORD lang="ita">Commutatori a camme miniaturizzati</KEYWORD>
+                <KEYWORD lang="ita">Interruttore da incasso centrale</KEYWORD>
+                <KEYWORD lang="ita">Interruttori a gradini</KEYWORD>
+                <KEYWORD lang="ita">TM</KEYWORD>
+                <KEYWORD lang="ita">commutatore</KEYWORD>
+                <KEYWORD lang="pol">Przełącznik</KEYWORD>
+                <KEYWORD lang="pol">Przełącznik montażowy rozdzielacza</KEYWORD>
+                <KEYWORD lang="pol">Przełącznik wielopołożeniowy</KEYWORD>
+                <KEYWORD lang="pol">TM</KEYWORD>
+                <KEYWORD lang="pol">Łącznik krzywkowy mini</KEYWORD>
+                <KEYWORD lang="pol">Łącznik sterowniczy</KEYWORD>
+                <KEYWORD lang="rus">TM</KEYWORD>
+                <KEYWORD lang="rus">Кулачковый мини-переключатель</KEYWORD>
+                <KEYWORD lang="rus">Ступенчатый выключатель</KEYWORD>
+                <KEYWORD lang="rus">Центральный встраиваемый выключатель</KEYWORD>
+                <KEYWORD lang="rus">переключатель</KEYWORD>
+                <KEYWORD lang="rus">управляющий переключатель</KEYWORD>
+            </PRODUCT_DETAILS>
+            <PRODUCT_FEATURES>
+                <REFERENCE_FEATURE_SYSTEM_NAME>ETIM-7.0</REFERENCE_FEATURE_SYSTEM_NAME>
+                <REFERENCE_FEATURE_GROUP_ID>EC002611</REFERENCE_FEATURE_GROUP_ID>
+                <FEATURE>
+                    <FNAME>EF003496</FNAME>
+                    <FVALUE>EV006495</FVALUE>
+                </FEATURE>
+                <FEATURE>
+                    <FNAME>EF001391</FNAME>
+                    <FVALUE>1</FVALUE>
+                </FEATURE>
+                <FEATURE>
+                    <FNAME>EF007355</FNAME>
+                    <FVALUE>500</FVALUE>
+                </FEATURE>
+                <FEATURE>
+                    <FNAME>EF001389</FNAME>
+                    <FVALUE>10</FVALUE>
+                </FEATURE>
+                <FEATURE>
+                    <FNAME>EF000231</FNAME>
+                    <FVALUE>3</FVALUE>
+                </FEATURE>
+                <FEATURE>
+                    <FNAME>EF001416</FNAME>
+                    <FVALUE>false</FVALUE>
+                </FEATURE>
+                <FEATURE>
+                    <FNAME>EF002428</FNAME>
+                    <FVALUE>false</FVALUE>
+                </FEATURE>
+                <FEATURE>
+                    <FNAME>EF008240</FNAME>
+                    <FVALUE>EV002104</FVALUE>
+                </FEATURE>
+                <FEATURE>
+                    <FNAME>EF002950</FNAME>
+                    <FVALUE>0</FVALUE>
+                </FEATURE>
+                <FEATURE>
+                    <FNAME>EF007243</FNAME>
+                    <FVALUE>false</FVALUE>
+                </FEATURE>
+                <FEATURE>
+                    <FNAME>EF007246</FNAME>
+                    <FVALUE>true</FVALUE>
+                </FEATURE>
+                <FEATURE>
+                    <FNAME>EF007262</FNAME>
+                    <FVALUE>false</FVALUE>
+                </FEATURE>
+                <FEATURE>
+                    <FNAME>EF007264</FNAME>
+                    <FVALUE>false</FVALUE>
+                </FEATURE>
+                <FEATURE>
+                    <FNAME>EF007317</FNAME>
+                    <FVALUE>false</FVALUE>
+                </FEATURE>
+                <FEATURE>
+                    <FNAME>EF006976</FNAME>
+                    <FVALUE>EV000421</FVALUE>
+                </FEATURE>
+                <FEATURE>
+                    <FNAME>EF007176</FNAME>
+                    <FVALUE>EV009121</FVALUE>
+                </FEATURE>
+                <FEATURE>
+                    <FNAME>EF003118</FNAME>
+                    <FVALUE>EV006421</FVALUE>
+                </FEATURE>
+                <FEATURE>
+                    <FNAME>EF011961</FNAME>
+                    <FVALUE>EV000154</FVALUE>
+                </FEATURE>
+            </PRODUCT_FEATURES>
+            <PRODUCT_ORDER_DETAILS>
+                <ORDER_UNIT>C62</ORDER_UNIT>
+                <CONTENT_UNIT>C62</CONTENT_UNIT>
+                <NO_CU_PER_OU>1</NO_CU_PER_OU>
+                <PRICE_QUANTITY>1</PRICE_QUANTITY>
+                <QUANTITY_MIN>1</QUANTITY_MIN>
+                <QUANTITY_INTERVAL>1</QUANTITY_INTERVAL>
+            </PRODUCT_ORDER_DETAILS>
+            <PRODUCT_PRICE_DETAILS>
+                <DATETIME type="valid_start_date">
+                    <DATE>2020-04-16</DATE>
+                </DATETIME>
+                <PRODUCT_PRICE price_type="net_list">
+                    <PRICE_AMOUNT>99999.99</PRICE_AMOUNT>
+                    <PRICE_CURRENCY>EUR</PRICE_CURRENCY>
+                    <TAX>0.19</TAX>
+                    <LOWER_BOUND>1</LOWER_BOUND>
+                </PRODUCT_PRICE>
+            </PRODUCT_PRICE_DETAILS>
+            <MIME_INFO>
+                <MIME>
+                    <MIME_TYPE>url</MIME_TYPE>
+                    <MIME_SOURCE>https://pl.eaton.com/image?doc_name=1150PIC-1549&amp;type=preview</MIME_SOURCE>
+                    <MIME_DESCR>MD01</MIME_DESCR>
+                    <MIME_PURPOSE>normal</MIME_PURPOSE>
+                </MIME>
+                <MIME>
+                    <MIME_TYPE>url</MIME_TYPE>
+                    <MIME_SOURCE>https://pl.eaton.com/image?doc_name=1150PIC-1549&amp;type=TIFDetail</MIME_SOURCE>
+                    <MIME_DESCR>MD01</MIME_DESCR>
+                    <MIME_PURPOSE>detail</MIME_PURPOSE>
+                </MIME>
+                <MIME>
+                    <MIME_TYPE>url</MIME_TYPE>
+                    <MIME_SOURCE>https://datasheet.eaton.com/datasheet.php?model=000701&amp;locale=en_GB</MIME_SOURCE>
+                    <MIME_DESCR>MD04</MIME_DESCR>
+                    <MIME_PURPOSE>data_sheet</MIME_PURPOSE>
+                </MIME>
+                <MIME>
+                    <MIME_TYPE>url</MIME_TYPE>
+                    <MIME_SOURCE>https://datasheet.eaton.com/datasheet.php?model=000701&amp;locale=de_DE</MIME_SOURCE>
+                    <MIME_DESCR>MD04</MIME_DESCR>
+                    <MIME_PURPOSE>data_sheet</MIME_PURPOSE>
+                </MIME>
+                <MIME>
+                    <MIME_TYPE>url</MIME_TYPE>
+                    <MIME_SOURCE>https://datasheet.eaton.com/datasheet.php?model=000701&amp;locale=fr_FR</MIME_SOURCE>
+                    <MIME_DESCR>MD04</MIME_DESCR>
+                    <MIME_PURPOSE>data_sheet</MIME_PURPOSE>
+                </MIME>
+                <MIME>
+                    <MIME_TYPE>url</MIME_TYPE>
+                    <MIME_SOURCE>https://datasheet.eaton.com/datasheet.php?model=000701&amp;locale=nl_NL</MIME_SOURCE>
+                    <MIME_DESCR>MD04</MIME_DESCR>
+                    <MIME_PURPOSE>data_sheet</MIME_PURPOSE>
+                </MIME>
+                <MIME>
+                    <MIME_TYPE>url</MIME_TYPE>
+                    <MIME_SOURCE>https://datasheet.eaton.com/datasheet.php?model=000701&amp;locale=es</MIME_SOURCE>
+                    <MIME_DESCR>MD04</MIME_DESCR>
+                    <MIME_PURPOSE>data_sheet</MIME_PURPOSE>
+                </MIME>
+                <MIME>
+                    <MIME_TYPE>url</MIME_TYPE>
+                    <MIME_SOURCE>https://datasheet.eaton.com/datasheet.php?model=000701&amp;locale=ru</MIME_SOURCE>
+                    <MIME_DESCR>MD04</MIME_DESCR>
+                    <MIME_PURPOSE>data_sheet</MIME_PURPOSE>
+                </MIME>
+                <MIME>
+                    <MIME_TYPE>url</MIME_TYPE>
+                    <MIME_SOURCE>https://datasheet.eaton.com/datasheet.php?model=000701&amp;locale=cs</MIME_SOURCE>
+                    <MIME_DESCR>MD04</MIME_DESCR>
+                    <MIME_PURPOSE>data_sheet</MIME_PURPOSE>
+                </MIME>
+                <MIME>
+                    <MIME_TYPE>url</MIME_TYPE>
+                    <MIME_SOURCE>https://datasheet.eaton.com/datasheet.php?model=000701&amp;locale=pl</MIME_SOURCE>
+                    <MIME_DESCR>MD04</MIME_DESCR>
+                    <MIME_PURPOSE>data_sheet</MIME_PURPOSE>
+                </MIME>
+                <MIME>
+                    <MIME_TYPE>url</MIME_TYPE>
+                    <MIME_SOURCE>https://datasheet.eaton.com/datasheet.php?model=000701&amp;locale=it</MIME_SOURCE>
+                    <MIME_DESCR>MD04</MIME_DESCR>
+                    <MIME_PURPOSE>data_sheet</MIME_PURPOSE>
+                </MIME>
+                <MIME>
+                    <MIME_TYPE>url</MIME_TYPE>
+                    <MIME_SOURCE>https://datasheet.eaton.com/datasheet.php?model=000701&amp;locale=nb</MIME_SOURCE>
+                    <MIME_DESCR>MD04</MIME_DESCR>
+                    <MIME_PURPOSE>data_sheet</MIME_PURPOSE>
+                </MIME>
+                <MIME>
+                    <MIME_TYPE>url</MIME_TYPE>
+                    <MIME_SOURCE>https://datasheet.eaton.com/datasheet.php?model=000701&amp;locale=da</MIME_SOURCE>
+                    <MIME_DESCR>MD04</MIME_DESCR>
+                    <MIME_PURPOSE>data_sheet</MIME_PURPOSE>
+                </MIME>
+            </MIME_INFO>
+            <USER_DEFINED_EXTENSIONS>
+                <UDX.EDXF.DISCOUNT_GROUP>
+                    <UDX.EDXF.DISCOUNT_GROUP_MANUFACTURER>999</UDX.EDXF.DISCOUNT_GROUP_MANUFACTURER>
+                </UDX.EDXF.DISCOUNT_GROUP>
+                <UDX.EDXF.PACKING_UNITS>
+                    <UDX.EDXF.PACKING_UNIT>
+                        <UDX.EDXF.QUANTITY_MIN>1</UDX.EDXF.QUANTITY_MIN>
+                        <UDX.EDXF.QUANTITY_MAX>1</UDX.EDXF.QUANTITY_MAX>
+                        <UDX.EDXF.PACKING_UNIT_CODE>CS</UDX.EDXF.PACKING_UNIT_CODE>
+                        <UDX.EDXF.VOLUME>0.00017</UDX.EDXF.VOLUME>
+                        <UDX.EDXF.WEIGHT>0.0620</UDX.EDXF.WEIGHT>
+                        <UDX.EDXF.LENGTH>0.1040</UDX.EDXF.LENGTH>
+                        <UDX.EDXF.WIDTH>0.0400</UDX.EDXF.WIDTH>
+                        <UDX.EDXF.DEPTH>0.0400</UDX.EDXF.DEPTH>
+                        <UDX.EDXF.GTIN>4015080007012</UDX.EDXF.GTIN>
+                    </UDX.EDXF.PACKING_UNIT>
+                </UDX.EDXF.PACKING_UNITS>
+                <UDX.EDXF.PRODUCT_LOGISTIC_DETAILS>
+                    <UDX.EDXF.NETWEIGHT>0.0430</UDX.EDXF.NETWEIGHT>
+                </UDX.EDXF.PRODUCT_LOGISTIC_DETAILS>
+                <UDX.EDXF.REACH>
+                    <UDX.EDXF.REACH.LISTDATE>2020-04-14</UDX.EDXF.REACH.LISTDATE>
+                    <UDX.EDXF.REACH.INFO>false</UDX.EDXF.REACH.INFO>
+                </UDX.EDXF.REACH>
+            </USER_DEFINED_EXTENSIONS>
+            <PRODUCT_REFERENCE type="accessories">
+                <PROD_ID_TO>073811</PROD_ID_TO>
+            </PRODUCT_REFERENCE>
+            <PRODUCT_REFERENCE type="accessories">
+                <PROD_ID_TO>045461</PROD_ID_TO>
+            </PRODUCT_REFERENCE>
+            <PRODUCT_REFERENCE type="accessories">
+                <PROD_ID_TO>239021</PROD_ID_TO>
+            </PRODUCT_REFERENCE>
+            <PRODUCT_REFERENCE type="accessories">
+                <PROD_ID_TO>045458</PROD_ID_TO>
+            </PRODUCT_REFERENCE>
+            <PRODUCT_REFERENCE type="accessories">
+                <PROD_ID_TO>239022</PROD_ID_TO>
+            </PRODUCT_REFERENCE>
+            <PRODUCT_REFERENCE type="accessories">
+                <PROD_ID_TO>045463</PROD_ID_TO>
+            </PRODUCT_REFERENCE>
+            <PRODUCT_REFERENCE type="accessories">
+                <PROD_ID_TO>045468</PROD_ID_TO>
+            </PRODUCT_REFERENCE>
+            <PRODUCT_REFERENCE type="accessories">
+                <PROD_ID_TO>045459</PROD_ID_TO>
+            </PRODUCT_REFERENCE>
+            <PRODUCT_REFERENCE type="accessories">
+                <PROD_ID_TO>071438</PROD_ID_TO>
+            </PRODUCT_REFERENCE>
+            <PRODUCT_REFERENCE type="accessories">
+                <PROD_ID_TO>045466</PROD_ID_TO>
+            </PRODUCT_REFERENCE>
+            <PRODUCT_REFERENCE type="accessories">
+                <PROD_ID_TO>045465</PROD_ID_TO>
+            </PRODUCT_REFERENCE>
+            <PRODUCT_LOGISTIC_DETAILS>
+                <CUSTOMS_TARIFF_NUMBER>
+                    <CUSTOMS_NUMBER>85365080</CUSTOMS_NUMBER>
+                </CUSTOMS_TARIFF_NUMBER>
+                <STATISTICS_FACTOR>1</STATISTICS_FACTOR>
+                <COUNTRY_OF_ORIGIN>AT</COUNTRY_OF_ORIGIN>
+            </PRODUCT_LOGISTIC_DETAILS>
+        </PRODUCT>
+    </T_NEW_CATALOG>
