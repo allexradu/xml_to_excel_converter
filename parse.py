@@ -4,7 +4,7 @@ import platform
 xml_file = 'xml\\text.xml' if platform.system() == 'Windows' else 'xml/text.xml'
 
 
-def remove_none(d_list, is_text):
+def remove_none(d_list, is_text = False):
     for i in d_list:
         # print(i)
         if i is not None:
@@ -27,7 +27,7 @@ for product in root.findall('PRODUCT'):
     user_defined_extensions = product.find('USER_DEFINED_EXTENSIONS')
     packing_units = user_defined_extensions.find('UDX.EDXF.PACKING_UNITS')
     packing_unit = remove_none([unit if unit.find('UDX.EDXF.QUANTITY_MIN').text == '1' else None for unit in
-                                packing_units], False)
+                                packing_units])
 
     pid = product.find('SUPPLIER_PID').text
     product_details_text = product_details.text
