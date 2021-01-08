@@ -1,3 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<BMECAT>
     <T_NEW_CATALOG>
         <PRODUCT mode="new">
             <SUPPLIER_PID>000213</SUPPLIER_PID>
@@ -229,14 +231,37 @@
                 <DESCRIPTION_SHORT lang="ces">Svorka, pro CU20x5(x10, x15)</DESCRIPTION_SHORT>
                 <DESCRIPTION_SHORT lang="pol">Zacisk do szyn zbiorczych, do CU20x5(x10, x15)</DESCRIPTION_SHORT>
                 <DESCRIPTION_SHORT lang="ita">Morsetto sbarra collettrice, per CU20x5(x10, x15)</DESCRIPTION_SHORT>
-                <DESCRIPTION_LONG lang="eng">Ultra-flat busbar terminal, terminal capacity for round cable=re 1.5-10 or rf 1.5-6mm², terminal capacity for flat cable=3x9x0.8 or 6x9x0.8 or 4x16x0.8 or 6x16x0.8 or 10x16x0.8 or 11x21x1, for Cu 20x10 / 20x15 busbars, rated operational current Ie=630A</DESCRIPTION_LONG>
-                <DESCRIPTION_LONG lang="deu">Ultraflach-Sammelschienenklemme, Anschlussquerschnitt Rundleiter=re 1.5-10 oder rf 1.5-6qmm, Anschlussquerschnitt Bandleiter=3x9x0.8 oder 6x9x0.8 oder 4x16x0.8 oder 6x16x0.8 oder 10x16x0.8 oder 11x21x1, für Schienen Cu 20x10 / 20x15, Bemessungsbetriebsstrom Ie=630A</DESCRIPTION_LONG>
-                <DESCRIPTION_LONG lang="fra">Borne pour jeux de barres ultra-plate, sections raccordables pour conducteurs ronds=re 1.5-10 ou rf 1.5-6mm², section raccordable pour câble plat=3x9x0.8 ou 6x9x0.8 ou 4x16x0.8 ou 6x16x0.8 ou 10x16x0.8 ou 11x21x1, pour barres Cu 20x10 / 20x15, courant assigné d'emploi Ie=630A</DESCRIPTION_LONG>
-                <DESCRIPTION_LONG lang="nld">Railsysteemklem, aansluitdoorsnede rondkabel=re 1.5-10 of rf 1.5-6mm², aansluitdoorsnede vlakbandkabel=3x9x0.8 of 6x9x0.8 of 4x16x0.8 of 6x16x0.8 of 10x16x0.8 of 11x21x1, voor rails Cu 20x10 / 20x15, nominale bedrijfsstroom Ie=630A</DESCRIPTION_LONG>
+                <DESCRIPTION_LONG lang="eng">Ultra-flat busbar terminal, terminal capacity for round cable=re 1.5-10 or
+                    rf 1.5-6mm², terminal capacity for flat cable=3x9x0.8 or 6x9x0.8 or 4x16x0.8 or 6x16x0.8 or
+                    10x16x0.8 or 11x21x1, for Cu 20x10 / 20x15 busbars, rated operational current Ie=630A
+                </DESCRIPTION_LONG>
+                <DESCRIPTION_LONG lang="deu">Ultraflach-Sammelschienenklemme, Anschlussquerschnitt Rundleiter=re 1.5-10
+                    oder rf 1.5-6qmm, Anschlussquerschnitt Bandleiter=3x9x0.8 oder 6x9x0.8 oder 4x16x0.8 oder 6x16x0.8
+                    oder 10x16x0.8 oder 11x21x1, für Schienen Cu 20x10 / 20x15, Bemessungsbetriebsstrom Ie=630A
+                </DESCRIPTION_LONG>
+                <DESCRIPTION_LONG lang="fra">Borne pour jeux de barres ultra-plate, sections raccordables pour
+                    conducteurs ronds=re 1.5-10 ou rf 1.5-6mm², section raccordable pour câble plat=3x9x0.8 ou 6x9x0.8
+                    ou 4x16x0.8 ou 6x16x0.8 ou 10x16x0.8 ou 11x21x1, pour barres Cu 20x10 / 20x15, courant assigné
+                    d'emploi Ie=630A
+                </DESCRIPTION_LONG>
+                <DESCRIPTION_LONG lang="nld">Railsysteemklem, aansluitdoorsnede rondkabel=re 1.5-10 of rf 1.5-6mm²,
+                    aansluitdoorsnede vlakbandkabel=3x9x0.8 of 6x9x0.8 of 4x16x0.8 of 6x16x0.8 of 10x16x0.8 of 11x21x1,
+                    voor rails Cu 20x10 / 20x15, nominale bedrijfsstroom Ie=630A
+                </DESCRIPTION_LONG>
                 <DESCRIPTION_LONG lang="rus">Шинная клемма, для CU20x5 ( x10, x15 )</DESCRIPTION_LONG>
-                <DESCRIPTION_LONG lang="ces">Tenká svorka, průřez připojení kruhového kabelu=re 1,5-10 nebo rf 1,5-6 mm², průřez připojení plochého kabelu=3x9x0,8 nebo 6x9x0,8 nebo 4x16x0,8 nebo 6x16x0,8 nebo 10x16x0,8 nebo 11x21x1, pro přípojnice Cu 20x10 / 20x15, jmenovitý povozní proud Ie=630A</DESCRIPTION_LONG>
-                <DESCRIPTION_LONG lang="pol">Zacisk na płaską szynę miedzianą, przekrój przyłącza przewodu okrągłego=re 1.5-10 lub rf 1.5-6mmkw, przekrój przyłącza przewodu taśmowego=3x9x0.8 lub 6x9x0.8 lub 4x16x0.8 lub 6x16x0.8 lub 10x16x0.8 lub 11x21x1, do szyn Cu 20x10 / 20x15, znamionowy prąd pracy Ie=630A</DESCRIPTION_LONG>
-                <DESCRIPTION_LONG lang="ita">Morsetto sbarra collettrice ultrapiatto, sezione di collegamento conduttore circolare=rigido 1.5-10 o flessibile 1.5-6mm², sezione di collegamento cavo piatto=3x9x0.8 o 6x9x0.8 o 4x16x0.8 o 6x16x0.8 o 10x16x0.8 o 11x21x1, per sbarre in Cu 20x10 / 20x15, corrente nominale d'impiego Ie=630A</DESCRIPTION_LONG>
+                <DESCRIPTION_LONG lang="ces">Tenká svorka, průřez připojení kruhového kabelu=re 1,5-10 nebo rf
+                    1,5-6 mm², průřez připojení plochého kabelu=3x9x0,8 nebo 6x9x0,8 nebo 4x16x0,8 nebo 6x16x0,8 nebo
+                    10x16x0,8 nebo 11x21x1, pro přípojnice Cu 20x10 / 20x15, jmenovitý povozní proud Ie=630A
+                </DESCRIPTION_LONG>
+                <DESCRIPTION_LONG lang="pol">Zacisk na płaską szynę miedzianą, przekrój przyłącza przewodu okrągłego=re
+                    1.5-10 lub rf 1.5-6mmkw, przekrój przyłącza przewodu taśmowego=3x9x0.8 lub 6x9x0.8 lub 4x16x0.8 lub
+                    6x16x0.8 lub 10x16x0.8 lub 11x21x1, do szyn Cu 20x10 / 20x15, znamionowy prąd pracy Ie=630A
+                </DESCRIPTION_LONG>
+                <DESCRIPTION_LONG lang="ita">Morsetto sbarra collettrice ultrapiatto, sezione di collegamento conduttore
+                    circolare=rigido 1.5-10 o flessibile 1.5-6mm², sezione di collegamento cavo piatto=3x9x0.8 o 6x9x0.8
+                    o 4x16x0.8 o 6x16x0.8 o 10x16x0.8 o 11x21x1, per sbarre in Cu 20x10 / 20x15, corrente nominale
+                    d'impiego Ie=630A
+                </DESCRIPTION_LONG>
                 <INTERNATIONAL_PID type="GTIN">4015080022855</INTERNATIONAL_PID>
                 <SUPPLIER_ALT_PID>002285</SUPPLIER_ALT_PID>
                 <MANUFACTURER_PID>002285</MANUFACTURER_PID>
@@ -471,22 +496,87 @@
         <PRODUCT mode="new">
             <SUPPLIER_PID>000701</SUPPLIER_PID>
             <PRODUCT_DETAILS>
-                <DESCRIPTION_SHORT lang="eng">Step switches, TM, 10 A, centre mounting, 2 contact unit(s), Contacts: 3, 60 °, maintained, Without 0 (Off) position, 1-3, Design number 8230</DESCRIPTION_SHORT>
-                <DESCRIPTION_SHORT lang="deu">Stufenschalter, TM, 10 A, Zentraleinbau, 2 Baueinheit(en), Kontakte: 3, 60 °, rastend, ohne 0-Stellung, 1-3, Abwicklungsnummer 8230</DESCRIPTION_SHORT>
-                <DESCRIPTION_SHORT lang="fra">Commutateurs à gradins, Contacts: 3, 10 A, plastron: 1-3, 60 °, 3 crans 60°, à accrochage, Montage encastré avec fixation centrale</DESCRIPTION_SHORT>
-                <DESCRIPTION_SHORT lang="nld">Stappenschakelaar, Contacten: 3, 10 A, Frontplaat: 1-3, 60 °, 3 stappen 60°, vast, eengats frontinbouw</DESCRIPTION_SHORT>
-                <DESCRIPTION_SHORT lang="rus">Ступенчатые выключатели, контакты: 3, 10 A, Передняя панель: 1-3, 60 °, 3 уровня 60°, с фиксацией, Центральный монтаж</DESCRIPTION_SHORT>
-                <DESCRIPTION_SHORT lang="ces">Krokový přepínač, 1p, Iu=10A, Čš 1-3, 45°, s aretací, 30x30mm, centrální upevnění</DESCRIPTION_SHORT>
-                <DESCRIPTION_SHORT lang="pol">Łącznik zakresowy, 1b, Iu=10A, TC 1-3, 45°, bez samopowrotu, 30x30mm, montaż centralny</DESCRIPTION_SHORT>
-                <DESCRIPTION_SHORT lang="ita">Interruttori a gradini, Contatti: 3, 10 A, targhetta frontale: 1-3, 60 °, 3 gradini, 60°, permanente, da incasso a fissaggio centrale</DESCRIPTION_SHORT>
-                <DESCRIPTION_LONG lang="eng">Step switch, Product range: Control switches, Standards: IEC/EN 60947, VDE 0660, CSA, UL, Control switch as per IEC/EN 60947-5-1, Auxiliary switch as per IEC/EN 60947-5-1, Part group reference: TM, with black thumb grip and front plate, Contacts: 3, Number of steps: 3 steps, 60°, Degree of Protection: Front IP65, Design: centre mounting, Switching angle: 60 °, Switching performance: maintained, Without 0 (Off) position, 2 contact unit(s), Rated uninterrupted current: Iu= 10 A, front plate: 1-3</DESCRIPTION_LONG>
-                <DESCRIPTION_LONG lang="deu">Stufenschalter, Sortiment: Steuerschalter, Normen und Bestimmungen: IEC/EN 60947, VDE 0660, CSA, UL, Steuerschalter nach IEC/EN 60947-5-1, Hilfsstromschalter nach IEC/EN 60947-5-1, Typkenner: TM, mit schwarzem Knebel und Frontschild, Kontakte: 3, Stufenanzahl: 3 Stufen 60°, Schutzart: Front IP65, Bauform: Zentraleinbau, Schaltwinkel: 60 °, Schaltverhalten: rastend, ohne 0-Stellung, 2 Baueinheit(en), Bemessungsdauerstrom: Iu= 10 A, Frontschild: 1-3</DESCRIPTION_LONG>
-                <DESCRIPTION_LONG lang="fra">Commutateur à gradins, Gamme: Commutateurs de commande, Conformité aux normes: IEC/EN 60947, VDE 0660, CSA, UL, Commutateurs de commande selon IEC/EN 60947-5-1, Contacts auxiliaires à manœuvre positive d'ouverture selon IEC/EN 60947-5-1, Identificateur de type: TM, avec manette noire et plastron, Contacts: 3, Nombre de gradins: 3 crans 60°, Degré de protection: Face avant IP65, Forme: Montage encastré avec fixation centrale, Angles de rotation: 60 °, Comportement de coupure: à accrochage, sans position « 0 », 2 Galette(s), Courant assigné ininterrompu: Iu= 10 A, plastron: 1-3</DESCRIPTION_LONG>
-                <DESCRIPTION_LONG lang="nld">Stappenschakelaar, Assortiment: Stuurschakelaar, normen en bepalingen: IEC/EN 60947, VDE 0660, CSA, UL, Stuurschakelaar conform IEC/EN 60947-5-1, Stuurstroomscheider conform IEC/EN 60947-5-1, Typekenner: TM, Met zwarte draaigreep en frontplaat, Contacten: 3, Aantal niveaus: 3 stappen 60°, beschermingsgraad: Front IP65, Bouwvorm: eengats frontinbouw, Schakelhoek: 60 °, Schakelverhouding: vast, Zonder 0-stand, 2 schakelkamer(s), nominale continu stroom: Iu= 10 A, Frontplaat: 1-3</DESCRIPTION_LONG>
-                <DESCRIPTION_LONG lang="rus">Ступенчатый выключатель, Ассортимент: Управляющий переключатель, Стандарты и предписания: IEC/EN 60947, VDE 0660, CSA, UL, Управляющие переключатели согласно IEC/EN 60947-5-1, Выключатели вспомогательного тока согласно IEC/EN 60947-5-1, Идентификатор типа: TM, с черной перекидной ручкой и с передней панелью, контакты: 3, Число уровней: 3 уровня 60°, Класс защиты: спереди IP65, Конструктивное исполнение: Центральный монтаж, Угол включения: 60 °, Режим коммутации: с фиксацией, без нулевого положения, 2 Модуль (модули), измеренный ток длительной нагрузки: Iu= 10 A, Передняя панель: 1-3</DESCRIPTION_LONG>
-                <DESCRIPTION_LONG lang="ces">Krokové přepínače, Sortiment: Ovládací spínače, Normy a ustanovení: ČSN EN 60947, VDE 0660, CSA, UL, Ovládací spínače podle ČSN/EN 60947-5-1, Pomocné spínače podle ČSN/EN 60947-5-1, Označení typu: TM, s černou pákou a čelním štítkem, Kontakty: 3, Počet stupňů: 3 stupňový 60°, Stupeň krytí: Vpředu IP65, Provedení: Centrální montáž, Spínací úhel: 60 °, Reakce při sepnutí: s aretací, bez polohy 0, 2 Modul(y), Jmenovitý trvalý proud: Iu= 10 A, Čelní štítek: 1-3</DESCRIPTION_LONG>
-                <DESCRIPTION_LONG lang="pol">Łącznik zakresowy, Asortyment: Łącznik sterowniczy, Normy i przepisy: IEC/EN 60947, VDE 0660, CSA, UL, Łącznik sterowniczy zgodne z IEC/EN 60947-5-1, Pomocniczy łącznik prądowy wg normy IEC/EN 60947-5-1, Identyfikator typu: TM, z czarnym pokrętłem i tabliczką czołową, Styki: 3, liczba zakresów: 3 zakresy 60°, Stopień ochrony: Przód IP65, Wykonanie: montaż centralny, Kąt łączenia: 60 °, Przebieg łączenia: bez samopowrotu, bez położenia 0, 2 Zespół montażowy/zespoły montażowe, Pomiarowy prąd stały: Iu= 10 A, Tabliczka czołowa: 1-3</DESCRIPTION_LONG>
-                <DESCRIPTION_LONG lang="ita">Interruttore a gradini, Assortimento: apparecchio di comando, Conformità alle norme: IEC/EN 60947, VDE 0660, CSA, UL, Interruttori di comando secondo IEC/EN 60947-5-1, Sezionatore ausiliario secondo IEC/EN 60947-5-1, Rilevatore tipo: TM, con leva nera e targhetta frontale, Contatti: 3, Numero gradini: 3 gradini, 60°, Grado di protezione: Frontale IP65, Forma costruttiva: da incasso a fissaggio centrale, Angolo di manovra: 60 °, Caratteristica di commutazione: permanente, Senza posizione 0, 2 Unità costruttiva/e, Corrente nominale ininterrotta: Iu= 10 A, targhetta frontale: 1-3</DESCRIPTION_LONG>
+                <DESCRIPTION_SHORT lang="eng">Step switches, TM, 10 A, centre mounting, 2 contact unit(s), Contacts: 3,
+                    60 °, maintained, Without 0 (Off) position, 1-3, Design number 8230
+                </DESCRIPTION_SHORT>
+                <DESCRIPTION_SHORT lang="deu">Stufenschalter, TM, 10 A, Zentraleinbau, 2 Baueinheit(en), Kontakte: 3, 60
+                    °, rastend, ohne 0-Stellung, 1-3, Abwicklungsnummer 8230
+                </DESCRIPTION_SHORT>
+                <DESCRIPTION_SHORT lang="fra">Commutateurs à gradins, Contacts: 3, 10 A, plastron: 1-3, 60 °, 3 crans
+                    60°, à accrochage, Montage encastré avec fixation centrale
+                </DESCRIPTION_SHORT>
+                <DESCRIPTION_SHORT lang="nld">Stappenschakelaar, Contacten: 3, 10 A, Frontplaat: 1-3, 60 °, 3 stappen
+                    60°, vast, eengats frontinbouw
+                </DESCRIPTION_SHORT>
+                <DESCRIPTION_SHORT lang="rus">Ступенчатые выключатели, контакты: 3, 10 A, Передняя панель: 1-3, 60 °, 3
+                    уровня 60°, с фиксацией, Центральный монтаж
+                </DESCRIPTION_SHORT>
+                <DESCRIPTION_SHORT lang="ces">Krokový přepínač, 1p, Iu=10A, Čš 1-3, 45°, s aretací, 30x30mm, centrální
+                    upevnění
+                </DESCRIPTION_SHORT>
+                <DESCRIPTION_SHORT lang="pol">Łącznik zakresowy, 1b, Iu=10A, TC 1-3, 45°, bez samopowrotu, 30x30mm,
+                    montaż centralny
+                </DESCRIPTION_SHORT>
+                <DESCRIPTION_SHORT lang="ita">Interruttori a gradini, Contatti: 3, 10 A, targhetta frontale: 1-3, 60 °,
+                    3 gradini, 60°, permanente, da incasso a fissaggio centrale
+                </DESCRIPTION_SHORT>
+                <DESCRIPTION_LONG lang="eng">Step switch, Product range: Control switches, Standards: IEC/EN 60947, VDE
+                    0660, CSA, UL, Control switch as per IEC/EN 60947-5-1, Auxiliary switch as per IEC/EN 60947-5-1,
+                    Part group reference: TM, with black thumb grip and front plate, Contacts: 3, Number of steps: 3
+                    steps, 60°, Degree of Protection: Front IP65, Design: centre mounting, Switching angle: 60 °,
+                    Switching performance: maintained, Without 0 (Off) position, 2 contact unit(s), Rated uninterrupted
+                    current: Iu= 10 A, front plate: 1-3
+                </DESCRIPTION_LONG>
+                <DESCRIPTION_LONG lang="deu">Stufenschalter, Sortiment: Steuerschalter, Normen und Bestimmungen: IEC/EN
+                    60947, VDE 0660, CSA, UL, Steuerschalter nach IEC/EN 60947-5-1, Hilfsstromschalter nach IEC/EN
+                    60947-5-1, Typkenner: TM, mit schwarzem Knebel und Frontschild, Kontakte: 3, Stufenanzahl: 3 Stufen
+                    60°, Schutzart: Front IP65, Bauform: Zentraleinbau, Schaltwinkel: 60 °, Schaltverhalten: rastend,
+                    ohne 0-Stellung, 2 Baueinheit(en), Bemessungsdauerstrom: Iu= 10 A, Frontschild: 1-3
+                </DESCRIPTION_LONG>
+                <DESCRIPTION_LONG lang="fra">Commutateur à gradins, Gamme: Commutateurs de commande, Conformité aux
+                    normes: IEC/EN 60947, VDE 0660, CSA, UL, Commutateurs de commande selon IEC/EN 60947-5-1, Contacts
+                    auxiliaires à manœuvre positive d'ouverture selon IEC/EN 60947-5-1, Identificateur de type: TM, avec
+                    manette noire et plastron, Contacts: 3, Nombre de gradins: 3 crans 60°, Degré de protection: Face
+                    avant IP65, Forme: Montage encastré avec fixation centrale, Angles de rotation: 60 °, Comportement
+                    de coupure: à accrochage, sans position « 0 », 2 Galette(s), Courant assigné ininterrompu: Iu= 10 A,
+                    plastron: 1-3
+                </DESCRIPTION_LONG>
+                <DESCRIPTION_LONG lang="nld">Stappenschakelaar, Assortiment: Stuurschakelaar, normen en bepalingen:
+                    IEC/EN 60947, VDE 0660, CSA, UL, Stuurschakelaar conform IEC/EN 60947-5-1, Stuurstroomscheider
+                    conform IEC/EN 60947-5-1, Typekenner: TM, Met zwarte draaigreep en frontplaat, Contacten: 3, Aantal
+                    niveaus: 3 stappen 60°, beschermingsgraad: Front IP65, Bouwvorm: eengats frontinbouw, Schakelhoek:
+                    60 °, Schakelverhouding: vast, Zonder 0-stand, 2 schakelkamer(s), nominale continu stroom: Iu= 10 A,
+                    Frontplaat: 1-3
+                </DESCRIPTION_LONG>
+                <DESCRIPTION_LONG lang="rus">Ступенчатый выключатель, Ассортимент: Управляющий переключатель, Стандарты
+                    и предписания: IEC/EN 60947, VDE 0660, CSA, UL, Управляющие переключатели согласно IEC/EN 60947-5-1,
+                    Выключатели вспомогательного тока согласно IEC/EN 60947-5-1, Идентификатор типа: TM, с черной
+                    перекидной ручкой и с передней панелью, контакты: 3, Число уровней: 3 уровня 60°, Класс защиты:
+                    спереди IP65, Конструктивное исполнение: Центральный монтаж, Угол включения: 60 °, Режим коммутации:
+                    с фиксацией, без нулевого положения, 2 Модуль (модули), измеренный ток длительной нагрузки: Iu= 10
+                    A, Передняя панель: 1-3
+                </DESCRIPTION_LONG>
+                <DESCRIPTION_LONG lang="ces">Krokové přepínače, Sortiment: Ovládací spínače, Normy a ustanovení: ČSN EN
+                    60947, VDE 0660, CSA, UL, Ovládací spínače podle ČSN/EN 60947-5-1, Pomocné spínače podle ČSN/EN
+                    60947-5-1, Označení typu: TM, s černou pákou a čelním štítkem, Kontakty: 3, Počet stupňů: 3 stupňový
+                    60°, Stupeň krytí: Vpředu IP65, Provedení: Centrální montáž, Spínací úhel: 60 °, Reakce při sepnutí:
+                    s aretací, bez polohy 0, 2 Modul(y), Jmenovitý trvalý proud: Iu= 10 A, Čelní štítek: 1-3
+                </DESCRIPTION_LONG>
+                <DESCRIPTION_LONG lang="pol">Łącznik zakresowy, Asortyment: Łącznik sterowniczy, Normy i przepisy:
+                    IEC/EN 60947, VDE 0660, CSA, UL, Łącznik sterowniczy zgodne z IEC/EN 60947-5-1, Pomocniczy łącznik
+                    prądowy wg normy IEC/EN 60947-5-1, Identyfikator typu: TM, z czarnym pokrętłem i tabliczką czołową,
+                    Styki: 3, liczba zakresów: 3 zakresy 60°, Stopień ochrony: Przód IP65, Wykonanie: montaż centralny,
+                    Kąt łączenia: 60 °, Przebieg łączenia: bez samopowrotu, bez położenia 0, 2 Zespół montażowy/zespoły
+                    montażowe, Pomiarowy prąd stały: Iu= 10 A, Tabliczka czołowa: 1-3
+                </DESCRIPTION_LONG>
+                <DESCRIPTION_LONG lang="ita">Interruttore a gradini, Assortimento: apparecchio di comando, Conformità
+                    alle norme: IEC/EN 60947, VDE 0660, CSA, UL, Interruttori di comando secondo IEC/EN 60947-5-1,
+                    Sezionatore ausiliario secondo IEC/EN 60947-5-1, Rilevatore tipo: TM, con leva nera e targhetta
+                    frontale, Contatti: 3, Numero gradini: 3 gradini, 60°, Grado di protezione: Frontale IP65, Forma
+                    costruttiva: da incasso a fissaggio centrale, Angolo di manovra: 60 °, Caratteristica di
+                    commutazione: permanente, Senza posizione 0, 2 Unità costruttiva/e, Corrente nominale ininterrotta:
+                    Iu= 10 A, targhetta frontale: 1-3
+                </DESCRIPTION_LONG>
                 <INTERNATIONAL_PID type="GTIN">4015080007012</INTERNATIONAL_PID>
                 <SUPPLIER_ALT_PID>000701</SUPPLIER_ALT_PID>
                 <MANUFACTURER_PID>000701</MANUFACTURER_PID>
@@ -784,3 +874,4 @@
             </PRODUCT_LOGISTIC_DETAILS>
         </PRODUCT>
     </T_NEW_CATALOG>
+</BMECAT>
