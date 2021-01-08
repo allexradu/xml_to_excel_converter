@@ -1,7 +1,13 @@
 import xml.etree.ElementTree as Et
 import platform
+from product import Product
+import openpyxl as xl
 
 xml_file = 'xml\\text.xml' if platform.system() == 'Windows' else 'xml/text.xml'
+table_location = 'excel\\a.xlsx' if platform.system() == 'Windows' else 'excel/a.xlsx'
+wb = xl.Workbook()
+sh = wb[wb.sheetnames[0]]
+products = []
 
 
 def remove_none(d_list, is_text = False):
@@ -18,23 +24,22 @@ product_tree = Et.parse(xml_file)
 
 root = product_tree.getroot()
 
-for product in root.findall('PRODUCT'):
-    product_details = product.find('PRODUCT_DETAILS')
-    product_order_details = product.find('PRODUCT_ORDER_DETAILS')
-    product_price_details = product.find('PRODUCT_PRICE_DETAILS')
+for each_product in root.findall('PRODUCT'):
+    product_details = each_product.find('PRODUCT_DETAILS')
+    product_order_details = each_product.find('PRODUCT_ORDER_DETAILS')
+    product_price_details = each_product.find('PRODUCT_PRICE_DETAILS')
     product_price = product_price_details.find('PRODUCT_PRICE')
-    mime_info = product.find('MIME_INFO')
-    user_defined_extensions = product.find('USER_DEFINED_EXTENSIONS')
+    mime_info = each_product.find('MIME_INFO')
+    user_defined_extensions = each_product.find('USER_DEFINED_EXTENSIONS')
     packing_units = user_defined_extensions.find('UDX.EDXF.PACKING_UNITS')
     packing_unit = remove_none([unit if unit.find('UDX.EDXF.QUANTITY_MIN').text == '1' else None for unit in
                                 packing_units])
 
-    pid = product.find('SUPPLIER_PID').text
-    product_details_text = product_details.text
-    short_description = product_details.findall(".//DESCRIPTION_SHORT[@lang='eng']")[0].text
-    long_description = product_details.findall(".//DESCRIPTION_LONG[@lang='eng']")[0].text
+    product_id = each_product.find('SUPPLIER_PID').text
     international_pid = product_details.find('INTERNATIONAL_PID').text
     manufacturer_pid = product_details.find('MANUFACTURER_PID').text
+    short_description = product_details.findall(".//DESCRIPTION_SHORT[@lang='eng']")[0].text
+    long_description = product_details.findall(".//DESCRIPTION_LONG[@lang='eng']")[0].text
     manufacturer_name = product_details.find('MANUFACTURER_NAME').text
     manufacturer_type_descr = product_details.find('MANUFACTURER_TYPE_DESCR').text
     meta_key_words_list = product_details.findall(".//KEYWORD[@lang='eng']")
@@ -61,6 +66,33 @@ for product in root.findall('PRODUCT'):
     length = packing_unit.find('UDX.EDXF.LENGTH').text
     width = packing_unit.find('UDX.EDXF.WIDTH').text
     depth = packing_unit.find('UDX.EDXF.DEPTH').text
+    products.append(
+        Product(product_id = product_id, international_pid = international_pid, manufacturer_pid = manufacturer_pid,
+                short_description = short_description, long_description = long_description,
+                manufacturer_name = manufacturer_name, manufacturer_type_descr = manufacturer_type_descr,
+                meta_key_words = meta_key_words, order_unit = order_unit, content_unit = content_unit,
+                number_cu_per_ou = number_cu_per_ou, price_quantity = price_quantity, quantity_min = quantity_min,
+                quantity_interval = quantity_interval, price_amount = price_amount, price_currency = price_currency,
+                tax = tax, photo_normal = photo_normal, photo_detail = photo_detail, data_sheet = data_sheet,
+                volume = volume, weight = weight, length = length, width = width, depth = depth))
 
-    print(long_description)
-    # print(mime_info[0].findall('MIME'))
+columns = ['Product ID', 'International PID', 'Manufacturer PID', 'Short Description', 'Long Description',
+           'Manufacturer Name', 'Manufacturer Type Description', 'Meta Key Words', 'Order Unit', 'Content Unit',
+           'Number Cu per Ou', 'Price Quantity', 'Quantity Min', 'Quantity Interval', 'Price', 'Currency', 'Tax',
+           'Photo', 'Photo Detail', 'Data Sheet', 'Volume', 'Weight', 'Length', 'Width', 'Depth']
+
+row = 2
+
+for column in range(1, len(columns) + 1):
+    sh.cell(1, column).value = columns[column - 1]
+    for prod in products:
+        cols = [prod.product_id, prod.international_pid, prod.manufacturer_pid, prod.short_description,
+                prod.long_description, prod.manufacturer_name, prod.manufacturer_type_descr, prod.meta_key_words,
+                prod.order_unit, prod.content_unit, prod.number_cu_per_ou, prod.price_quantity, prod.quantity_min,
+                prod.quantity_interval, prod.price_amount, prod.price_currency, prod.tax, prod.photo_normal,
+                prod.photo_detail, prod.data_sheet, prod.volume, prod.weight, prod.length, prod.width, prod.depth]
+
+        sh.cell(row, column).value = cols[column - 1]
+        row += 1
+    row = 2
+wb.save(table_location)
