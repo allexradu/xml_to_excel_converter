@@ -12,7 +12,6 @@ products = []
 
 def remove_none(d_list, is_text = False):
     for i in d_list:
-        # print(i)
         if i is not None:
             if is_text:
                 return i.text
@@ -93,6 +92,7 @@ for column in range(1, len(columns) + 1):
                 prod.photo_detail, prod.data_sheet, prod.volume, prod.weight, prod.length, prod.width, prod.depth]
 
         sh.cell(row, column).value = cols[column - 1]
+        print(f'column: {column},row: {row}')
         row += 1
     row = 2
 wb.save(table_location)
