@@ -18,7 +18,7 @@ def remove_none(d_list, is_text = False):
             else:
                 return i
 
-#
+
 product_tree = Et.parse(xml_file)
 
 root = product_tree.getroot()
