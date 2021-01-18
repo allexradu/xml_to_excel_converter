@@ -1,0 +1,834 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<BMECAT>
+    <HEADER>
+        <GENERATOR_INFO>PMI, evosoft GmbH, Marienbergstr. 76-82, D-90411 Nürnberg, www.evosoft.com</GENERATOR_INFO>
+        <CATALOG>
+            <LANGUAGE default="true">eng</LANGUAGE>
+            <CATALOG_ID>Siemens_2011</CATALOG_ID>
+            <CATALOG_VERSION>001.000</CATALOG_VERSION>
+            <CATALOG_NAME>Siemens AG 11-2020</CATALOG_NAME>
+            <DATETIME type="generation_date">
+                <DATE>2020-11-20</DATE>
+            </DATETIME>
+            <TERRITORY>RO</TERRITORY>
+            <CURRENCY>EUR</CURRENCY>
+        </CATALOG>
+        <BUYER>
+            <BUYER_ID type="buyer_specific">DISTRIBUTOR</BUYER_ID>
+            <BUYER_NAME>Electroglobal SA</BUYER_NAME>
+        </BUYER>
+        <SUPPLIER>
+            <SUPPLIER_ID type="duns">331716014</SUPPLIER_ID>
+            <SUPPLIER_ID type="gln">4016001000006</SUPPLIER_ID>
+            <SUPPLIER_NAME>Siemens AG</SUPPLIER_NAME>
+            <ADDRESS type="supplier">
+                <CONTACT>Siemens AG</CONTACT>
+                <STREET>Werner-von-Siemens-Straße 1</STREET>
+                <ZIP>80333</ZIP>
+                <CITY>München</CITY>
+                <COUNTRY>DE</COUNTRY>
+                <EMAIL>-</EMAIL>
+                <URL>https://www.siemens.com/contact/en/corporate/general.php</URL>
+            </ADDRESS>
+        </SUPPLIER>
+        <USER_DEFINED_EXTENSIONS>
+            <UDX.EDXF.VERSION>4.0</UDX.EDXF.VERSION>
+        </USER_DEFINED_EXTENSIONS>
+    </HEADER>
+    <T_NEW_CATALOG>
+        <PRODUCT mode="new">
+            <SUPPLIER_PID>1FE11458WS111BC2</SUPPLIER_PID>
+            <PRODUCT_DETAILS>
+                <DESCRIPTION_SHORT>SIMOTICS M Built-in synchronous motor DC link 600V, 105K, IP00, 8-pole Individual
+                    components: rotor stator, 585Nm, In=130A, 67.4kW NN=1100rpm, Nmax=50
+                </DESCRIPTION_SHORT>
+                <DESCRIPTION_LONG>SIMOTICS M Built-in synchronous motor DC link 600V, 105K, IP00, 8-pole Individual
+                    components: rotor stator, 585Nm, In=130A, 67.4kW NN=1100rpm, Nmax=5000rpm VPM required KTY84
+                    Temperature sensor WATER-COOLED Overhead encapsulation with standard protection 2x temp. sensor
+                    STANDARD COOLING JACKET ROTOR SLEEVE IDM=150 MM FREE LEAD ENDS L=0.5 M
+                </DESCRIPTION_LONG>
+                <INTERNATIONAL_PID type="upc">804766141171</INTERNATIONAL_PID>
+                <SUPPLIER_ALT_PID>1FE1145-8WS11-1BC2</SUPPLIER_ALT_PID>
+                <MANUFACTURER_PID>1FE11458WS111BC2</MANUFACTURER_PID>
+                <MANUFACTURER_NAME>Siemens</MANUFACTURER_NAME>
+                <MANUFACTURER_TYPE_DESCR>SIMOTICS M Built-in synchronous motor DC link 600V</MANUFACTURER_TYPE_DESCR>
+                <SPECIAL_TREATMENT_CLASS type="SIDAB">false</SPECIAL_TREATMENT_CLASS>
+                <SPECIAL_TREATMENT_CLASS type="ECCN">NONE</SPECIAL_TREATMENT_CLASS>
+                <SPECIAL_TREATMENT_CLASS type="AL">9I999IR</SPECIAL_TREATMENT_CLASS>
+                <KEYWORD>Capacitor motor</KEYWORD>
+                <KEYWORD>Direct current motor</KEYWORD>
+                <KEYWORD>Electric motor</KEYWORD>
+                <KEYWORD>Linear motor</KEYWORD>
+                <KEYWORD>Motor</KEYWORD>
+                <KEYWORD>Rotary current asynchronous motor</KEYWORD>
+                <KEYWORD>Rotary current synchronous motor</KEYWORD>
+                <KEYWORD>Split pole motor</KEYWORD>
+                <KEYWORD>Stepping motor</KEYWORD>
+                <KEYWORD>Universal motor</KEYWORD>
+                <PRODUCT_STATUS type="others">*55</PRODUCT_STATUS>
+            </PRODUCT_DETAILS>
+            <PRODUCT_FEATURES>
+                <REFERENCE_FEATURE_SYSTEM_NAME>ETIM-7.0</REFERENCE_FEATURE_SYSTEM_NAME>
+                <REFERENCE_FEATURE_GROUP_ID>EC001851</REFERENCE_FEATURE_GROUP_ID>
+            </PRODUCT_FEATURES>
+            <PRODUCT_ORDER_DETAILS>
+                <ORDER_UNIT>C62</ORDER_UNIT>
+                <CONTENT_UNIT>C62</CONTENT_UNIT>
+                <NO_CU_PER_OU>1</NO_CU_PER_OU>
+                <PRICE_QUANTITY>1</PRICE_QUANTITY>
+                <QUANTITY_MIN>1</QUANTITY_MIN>
+                <QUANTITY_INTERVAL>1</QUANTITY_INTERVAL>
+            </PRODUCT_ORDER_DETAILS>
+            <PRODUCT_PRICE_DETAILS>
+                <DATETIME type="valid_start_date">
+                    <DATE>2019-10-01</DATE>
+                </DATETIME>
+                <DAILY_PRICE>false</DAILY_PRICE>
+                <PRODUCT_PRICE price_type="net_list">
+                    <PRICE_AMOUNT>9677.5</PRICE_AMOUNT>
+                    <PRICE_CURRENCY>EUR</PRICE_CURRENCY>
+                    <LOWER_BOUND>1</LOWER_BOUND>
+                </PRODUCT_PRICE>
+            </PRODUCT_PRICE_DETAILS>
+            <USER_DEFINED_EXTENSIONS>
+                <UDX.EDXF.MIME_INFO>
+                    <UDX.EDXF.MIME>
+                        <UDX.EDXF.MIME_SOURCE>P_NC01_XX_00513I.JPG</UDX.EDXF.MIME_SOURCE>
+                        <UDX.EDXF.MIME_CODE>MD02</UDX.EDXF.MIME_CODE>
+                        <UDX.EDXF.MIME_FILENAME>P_NC01_XX_00513I.JPG</UDX.EDXF.MIME_FILENAME>
+                        <UDX.EDXF.MIME_DESIGNATION>normal</UDX.EDXF.MIME_DESIGNATION>
+                        <UDX.EDXF.MIME_ALT>Similar figure</UDX.EDXF.MIME_ALT>
+                    </UDX.EDXF.MIME>
+                    <UDX.EDXF.MIME>
+                        <UDX.EDXF.MIME_SOURCE>
+                            https://www.industry-mobile-support.siemens-info.com/#/en/searchArticle/1FE1145-8WS11-1BC2/ae
+                        </UDX.EDXF.MIME_SOURCE>
+                        <UDX.EDXF.MIME_CODE>MD99</UDX.EDXF.MIME_CODE>
+                        <UDX.EDXF.MIME_FILENAME>no_filename</UDX.EDXF.MIME_FILENAME>
+                        <UDX.EDXF.MIME_DESIGNATION>others</UDX.EDXF.MIME_DESIGNATION>
+                        <UDX.EDXF.MIME_ALT>Link to Application example</UDX.EDXF.MIME_ALT>
+                    </UDX.EDXF.MIME>
+                    <UDX.EDXF.MIME>
+                        <UDX.EDXF.MIME_SOURCE>
+                            https://www.industry-mobile-support.siemens-info.com/#/en/searchArticle/1FE1145-8WS11-1BC2/cert
+                        </UDX.EDXF.MIME_SOURCE>
+                        <UDX.EDXF.MIME_CODE>MD09</UDX.EDXF.MIME_CODE>
+                        <UDX.EDXF.MIME_FILENAME>no_filename</UDX.EDXF.MIME_FILENAME>
+                        <UDX.EDXF.MIME_DESIGNATION>others</UDX.EDXF.MIME_DESIGNATION>
+                        <UDX.EDXF.MIME_ALT>Link to Certificates</UDX.EDXF.MIME_ALT>
+                    </UDX.EDXF.MIME>
+                    <UDX.EDXF.MIME>
+                        <UDX.EDXF.MIME_SOURCE>
+                            https://www.industry-mobile-support.siemens-info.com/#/en/searchArticle/1FE1145-8WS11-1BC2/dl
+                        </UDX.EDXF.MIME_SOURCE>
+                        <UDX.EDXF.MIME_CODE>MD99</UDX.EDXF.MIME_CODE>
+                        <UDX.EDXF.MIME_FILENAME>no_filename</UDX.EDXF.MIME_FILENAME>
+                        <UDX.EDXF.MIME_DESIGNATION>others</UDX.EDXF.MIME_DESIGNATION>
+                        <UDX.EDXF.MIME_ALT>Link to Download</UDX.EDXF.MIME_ALT>
+                    </UDX.EDXF.MIME>
+                    <UDX.EDXF.MIME>
+                        <UDX.EDXF.MIME_SOURCE>
+                            https://www.industry-mobile-support.siemens-info.com/#/en/searchArticle/1FE1145-8WS11-1BC2/faq
+                        </UDX.EDXF.MIME_SOURCE>
+                        <UDX.EDXF.MIME_CODE>MD99</UDX.EDXF.MIME_CODE>
+                        <UDX.EDXF.MIME_FILENAME>no_filename</UDX.EDXF.MIME_FILENAME>
+                        <UDX.EDXF.MIME_DESIGNATION>others</UDX.EDXF.MIME_DESIGNATION>
+                        <UDX.EDXF.MIME_ALT>Link to FAQ</UDX.EDXF.MIME_ALT>
+                    </UDX.EDXF.MIME>
+                    <UDX.EDXF.MIME>
+                        <UDX.EDXF.MIME_SOURCE>
+                            https://www.industry-mobile-support.siemens-info.com/#/en/searchArticle/1FE1145-8WS11-1BC2/man
+                        </UDX.EDXF.MIME_SOURCE>
+                        <UDX.EDXF.MIME_CODE>MD32</UDX.EDXF.MIME_CODE>
+                        <UDX.EDXF.MIME_FILENAME>no_filename</UDX.EDXF.MIME_FILENAME>
+                        <UDX.EDXF.MIME_DESIGNATION>others</UDX.EDXF.MIME_DESIGNATION>
+                        <UDX.EDXF.MIME_ALT>Link to Manual</UDX.EDXF.MIME_ALT>
+                    </UDX.EDXF.MIME>
+                    <UDX.EDXF.MIME>
+                        <UDX.EDXF.MIME_SOURCE>https://static.siemens.com/mimes/10001000PNG/P_NC01_XX_00513P.png
+                        </UDX.EDXF.MIME_SOURCE>
+                        <UDX.EDXF.MIME_CODE>MD02</UDX.EDXF.MIME_CODE>
+                        <UDX.EDXF.MIME_FILENAME>no_filename</UDX.EDXF.MIME_FILENAME>
+                        <UDX.EDXF.MIME_DESIGNATION>others</UDX.EDXF.MIME_DESIGNATION>
+                        <UDX.EDXF.MIME_ALT>Link to Picture</UDX.EDXF.MIME_ALT>
+                    </UDX.EDXF.MIME>
+                    <UDX.EDXF.MIME>
+                        <UDX.EDXF.MIME_SOURCE>
+                            https://www.industry-mobile-support.siemens-info.com/#/en/product/1FE1145-8WS11-1BC2
+                        </UDX.EDXF.MIME_SOURCE>
+                        <UDX.EDXF.MIME_CODE>MD04</UDX.EDXF.MIME_CODE>
+                        <UDX.EDXF.MIME_FILENAME>no_filename</UDX.EDXF.MIME_FILENAME>
+                        <UDX.EDXF.MIME_DESIGNATION>others</UDX.EDXF.MIME_DESIGNATION>
+                        <UDX.EDXF.MIME_ALT>Link to Product Page</UDX.EDXF.MIME_ALT>
+                    </UDX.EDXF.MIME>
+                    <UDX.EDXF.MIME>
+                        <UDX.EDXF.MIME_SOURCE>
+                            https://www.industry-mobile-support.siemens-info.com/#/en/searchArticle/1FE1145-8WS11-1BC2/technicaldata
+                        </UDX.EDXF.MIME_SOURCE>
+                        <UDX.EDXF.MIME_CODE>MD22</UDX.EDXF.MIME_CODE>
+                        <UDX.EDXF.MIME_FILENAME>no_filename</UDX.EDXF.MIME_FILENAME>
+                        <UDX.EDXF.MIME_DESIGNATION>others</UDX.EDXF.MIME_DESIGNATION>
+                        <UDX.EDXF.MIME_ALT>Link to Technical data</UDX.EDXF.MIME_ALT>
+                    </UDX.EDXF.MIME>
+                    <UDX.EDXF.MIME>
+                        <UDX.EDXF.MIME_SOURCE>
+                            https://www.industry-mobile-support.siemens-info.com/#/en/searchArticle/1FE1145-8WS11-1BC2/pm
+                        </UDX.EDXF.MIME_SOURCE>
+                        <UDX.EDXF.MIME_CODE>MD99</UDX.EDXF.MIME_CODE>
+                        <UDX.EDXF.MIME_FILENAME>no_filename</UDX.EDXF.MIME_FILENAME>
+                        <UDX.EDXF.MIME_DESIGNATION>others</UDX.EDXF.MIME_DESIGNATION>
+                        <UDX.EDXF.MIME_ALT>Link to product note</UDX.EDXF.MIME_ALT>
+                    </UDX.EDXF.MIME>
+                </UDX.EDXF.MIME_INFO>
+                <UDX.EDXF.MANUFACTURER_ACRONYM>Siemens AG</UDX.EDXF.MANUFACTURER_ACRONYM>
+                <UDX.EDXF.DESCRIPTION_VERY_SHORT>BUILT-IN SYNCHRONOUS MOTOR</UDX.EDXF.DESCRIPTION_VERY_SHORT>
+                <UDX.EDXF.DISCOUNT_GROUP>
+                    <UDX.EDXF.DISCOUNT_GROUP_MANUFACTURER>761</UDX.EDXF.DISCOUNT_GROUP_MANUFACTURER>
+                    <UDX.EDXF.DISCOUNT_GROUP_SUPPLIER>761</UDX.EDXF.DISCOUNT_GROUP_SUPPLIER>
+                </UDX.EDXF.DISCOUNT_GROUP>
+                <UDX.EDXF.PACKING_UNITS>
+                    <UDX.EDXF.PACKING_UNIT>
+                        <UDX.EDXF.QUANTITY_MIN>1</UDX.EDXF.QUANTITY_MIN>
+                        <UDX.EDXF.QUANTITY_MAX>1</UDX.EDXF.QUANTITY_MAX>
+                        <UDX.EDXF.PACKING_UNIT_CODE>C62</UDX.EDXF.PACKING_UNIT_CODE>
+                        <UDX.EDXF.WEIGHT>124.3</UDX.EDXF.WEIGHT>
+                    </UDX.EDXF.PACKING_UNIT>
+                </UDX.EDXF.PACKING_UNITS>
+                <UDX.EDXF.PRODUCT_LOGISTIC_DETAILS>
+                    <UDX.EDXF.NETWEIGHT>124.3</UDX.EDXF.NETWEIGHT>
+                </UDX.EDXF.PRODUCT_LOGISTIC_DETAILS>
+                <UDX.EDXF.REACH>
+                    <UDX.EDXF.REACH.LISTDATE>2020-11-20</UDX.EDXF.REACH.LISTDATE>
+                    <UDX.EDXF.REACH.INFO>false</UDX.EDXF.REACH.INFO>
+                </UDX.EDXF.REACH>
+            </USER_DEFINED_EXTENSIONS>
+            <PRODUCT_LOGISTIC_DETAILS>
+                <CUSTOMS_TARIFF_NUMBER>
+                    <CUSTOMS_NUMBER>85030099</CUSTOMS_NUMBER>
+                </CUSTOMS_TARIFF_NUMBER>
+                <COUNTRY_OF_ORIGIN>DE</COUNTRY_OF_ORIGIN>
+            </PRODUCT_LOGISTIC_DETAILS>
+        </PRODUCT>
+        <PRODUCT mode="new">
+            <SUPPLIER_PID>1FE10646WN311BA0</SUPPLIER_PID>
+            <PRODUCT_DETAILS>
+                <DESCRIPTION_SHORT>SIMOTICS M Built-in synchronous motor DC link 600V, 105K, IP00, 6-pole Individual
+                    components: rotor stator, 56Nm, In=56A, 25kW NN=4300rpm, Nmax=12000r
+                </DESCRIPTION_SHORT>
+                <DESCRIPTION_LONG>SIMOTICS M Built-in synchronous motor DC link 600V, 105K, IP00, 6-pole Individual
+                    components: rotor stator, 56Nm, In=56A, 25kW NN=4300rpm, Nmax=12000rpm VPM required KTY84
+                    Temperature sensor WATER-COOLED Overhead encapsulation +full protection (2x temp. sensor) STANDARD
+                    COOLING JACKET W/O ROTOR SLEEVE FREE LEAD ENDS L=1.5M
+                </DESCRIPTION_LONG>
+                <INTERNATIONAL_PID type="upc">804766083600</INTERNATIONAL_PID>
+                <SUPPLIER_ALT_PID>1FE1064-6WN31-1BA0</SUPPLIER_ALT_PID>
+                <MANUFACTURER_PID>1FE10646WN311BA0</MANUFACTURER_PID>
+                <MANUFACTURER_NAME>Siemens</MANUFACTURER_NAME>
+                <MANUFACTURER_TYPE_DESCR>SIMOTICS M Built-in synchronous motor DC link 600V</MANUFACTURER_TYPE_DESCR>
+                <SPECIAL_TREATMENT_CLASS type="SIDAB">false</SPECIAL_TREATMENT_CLASS>
+                <SPECIAL_TREATMENT_CLASS type="ECCN">NONE</SPECIAL_TREATMENT_CLASS>
+                <SPECIAL_TREATMENT_CLASS type="AL">9I999IR</SPECIAL_TREATMENT_CLASS>
+                <KEYWORD>Capacitor motor</KEYWORD>
+                <KEYWORD>Direct current motor</KEYWORD>
+                <KEYWORD>Electric motor</KEYWORD>
+                <KEYWORD>Linear motor</KEYWORD>
+                <KEYWORD>Motor</KEYWORD>
+                <KEYWORD>Rotary current asynchronous motor</KEYWORD>
+                <KEYWORD>Rotary current synchronous motor</KEYWORD>
+                <KEYWORD>Split pole motor</KEYWORD>
+                <KEYWORD>Stepping motor</KEYWORD>
+                <KEYWORD>Universal motor</KEYWORD>
+                <PRODUCT_STATUS type="others">*55</PRODUCT_STATUS>
+            </PRODUCT_DETAILS>
+            <PRODUCT_FEATURES>
+                <REFERENCE_FEATURE_SYSTEM_NAME>ETIM-7.0</REFERENCE_FEATURE_SYSTEM_NAME>
+                <REFERENCE_FEATURE_GROUP_ID>EC001851</REFERENCE_FEATURE_GROUP_ID>
+            </PRODUCT_FEATURES>
+            <PRODUCT_ORDER_DETAILS>
+                <ORDER_UNIT>C62</ORDER_UNIT>
+                <CONTENT_UNIT>C62</CONTENT_UNIT>
+                <NO_CU_PER_OU>1</NO_CU_PER_OU>
+                <PRICE_QUANTITY>1</PRICE_QUANTITY>
+                <QUANTITY_MIN>1</QUANTITY_MIN>
+                <QUANTITY_INTERVAL>1</QUANTITY_INTERVAL>
+            </PRODUCT_ORDER_DETAILS>
+            <PRODUCT_PRICE_DETAILS>
+                <DATETIME type="valid_start_date">
+                    <DATE>2019-10-01</DATE>
+                </DATETIME>
+                <DAILY_PRICE>false</DAILY_PRICE>
+                <PRODUCT_PRICE price_type="net_list">
+                    <PRICE_AMOUNT>3114.02</PRICE_AMOUNT>
+                    <PRICE_CURRENCY>EUR</PRICE_CURRENCY>
+                    <LOWER_BOUND>1</LOWER_BOUND>
+                </PRODUCT_PRICE>
+            </PRODUCT_PRICE_DETAILS>
+            <USER_DEFINED_EXTENSIONS>
+                <UDX.EDXF.MIME_INFO>
+                    <UDX.EDXF.MIME>
+                        <UDX.EDXF.MIME_SOURCE>P_NC01_XX_00513I.JPG</UDX.EDXF.MIME_SOURCE>
+                        <UDX.EDXF.MIME_CODE>MD02</UDX.EDXF.MIME_CODE>
+                        <UDX.EDXF.MIME_FILENAME>P_NC01_XX_00513I.JPG</UDX.EDXF.MIME_FILENAME>
+                        <UDX.EDXF.MIME_DESIGNATION>normal</UDX.EDXF.MIME_DESIGNATION>
+                        <UDX.EDXF.MIME_ALT>Similar figure</UDX.EDXF.MIME_ALT>
+                    </UDX.EDXF.MIME>
+                    <UDX.EDXF.MIME>
+                        <UDX.EDXF.MIME_SOURCE>
+                            https://www.industry-mobile-support.siemens-info.com/#/en/searchArticle/1FE1064-6WN31-1BA0/ae
+                        </UDX.EDXF.MIME_SOURCE>
+                        <UDX.EDXF.MIME_CODE>MD99</UDX.EDXF.MIME_CODE>
+                        <UDX.EDXF.MIME_FILENAME>no_filename</UDX.EDXF.MIME_FILENAME>
+                        <UDX.EDXF.MIME_DESIGNATION>others</UDX.EDXF.MIME_DESIGNATION>
+                        <UDX.EDXF.MIME_ALT>Link to Application example</UDX.EDXF.MIME_ALT>
+                    </UDX.EDXF.MIME>
+                    <UDX.EDXF.MIME>
+                        <UDX.EDXF.MIME_SOURCE>
+                            https://www.industry-mobile-support.siemens-info.com/#/en/searchArticle/1FE1064-6WN31-1BA0/cert
+                        </UDX.EDXF.MIME_SOURCE>
+                        <UDX.EDXF.MIME_CODE>MD09</UDX.EDXF.MIME_CODE>
+                        <UDX.EDXF.MIME_FILENAME>no_filename</UDX.EDXF.MIME_FILENAME>
+                        <UDX.EDXF.MIME_DESIGNATION>others</UDX.EDXF.MIME_DESIGNATION>
+                        <UDX.EDXF.MIME_ALT>Link to Certificates</UDX.EDXF.MIME_ALT>
+                    </UDX.EDXF.MIME>
+                    <UDX.EDXF.MIME>
+                        <UDX.EDXF.MIME_SOURCE>
+                            https://www.industry-mobile-support.siemens-info.com/#/en/searchArticle/1FE1064-6WN31-1BA0/dl
+                        </UDX.EDXF.MIME_SOURCE>
+                        <UDX.EDXF.MIME_CODE>MD99</UDX.EDXF.MIME_CODE>
+                        <UDX.EDXF.MIME_FILENAME>no_filename</UDX.EDXF.MIME_FILENAME>
+                        <UDX.EDXF.MIME_DESIGNATION>others</UDX.EDXF.MIME_DESIGNATION>
+                        <UDX.EDXF.MIME_ALT>Link to Download</UDX.EDXF.MIME_ALT>
+                    </UDX.EDXF.MIME>
+                    <UDX.EDXF.MIME>
+                        <UDX.EDXF.MIME_SOURCE>
+                            https://www.industry-mobile-support.siemens-info.com/#/en/searchArticle/1FE1064-6WN31-1BA0/faq
+                        </UDX.EDXF.MIME_SOURCE>
+                        <UDX.EDXF.MIME_CODE>MD99</UDX.EDXF.MIME_CODE>
+                        <UDX.EDXF.MIME_FILENAME>no_filename</UDX.EDXF.MIME_FILENAME>
+                        <UDX.EDXF.MIME_DESIGNATION>others</UDX.EDXF.MIME_DESIGNATION>
+                        <UDX.EDXF.MIME_ALT>Link to FAQ</UDX.EDXF.MIME_ALT>
+                    </UDX.EDXF.MIME>
+                    <UDX.EDXF.MIME>
+                        <UDX.EDXF.MIME_SOURCE>
+                            https://www.industry-mobile-support.siemens-info.com/#/en/searchArticle/1FE1064-6WN31-1BA0/man
+                        </UDX.EDXF.MIME_SOURCE>
+                        <UDX.EDXF.MIME_CODE>MD32</UDX.EDXF.MIME_CODE>
+                        <UDX.EDXF.MIME_FILENAME>no_filename</UDX.EDXF.MIME_FILENAME>
+                        <UDX.EDXF.MIME_DESIGNATION>others</UDX.EDXF.MIME_DESIGNATION>
+                        <UDX.EDXF.MIME_ALT>Link to Manual</UDX.EDXF.MIME_ALT>
+                    </UDX.EDXF.MIME>
+                    <UDX.EDXF.MIME>
+                        <UDX.EDXF.MIME_SOURCE>https://static.siemens.com/mimes/10001000PNG/P_NC01_XX_00513P.png
+                        </UDX.EDXF.MIME_SOURCE>
+                        <UDX.EDXF.MIME_CODE>MD02</UDX.EDXF.MIME_CODE>
+                        <UDX.EDXF.MIME_FILENAME>no_filename</UDX.EDXF.MIME_FILENAME>
+                        <UDX.EDXF.MIME_DESIGNATION>others</UDX.EDXF.MIME_DESIGNATION>
+                        <UDX.EDXF.MIME_ALT>Link to Picture</UDX.EDXF.MIME_ALT>
+                    </UDX.EDXF.MIME>
+                    <UDX.EDXF.MIME>
+                        <UDX.EDXF.MIME_SOURCE>
+                            https://www.industry-mobile-support.siemens-info.com/#/en/product/1FE1064-6WN31-1BA0
+                        </UDX.EDXF.MIME_SOURCE>
+                        <UDX.EDXF.MIME_CODE>MD04</UDX.EDXF.MIME_CODE>
+                        <UDX.EDXF.MIME_FILENAME>no_filename</UDX.EDXF.MIME_FILENAME>
+                        <UDX.EDXF.MIME_DESIGNATION>others</UDX.EDXF.MIME_DESIGNATION>
+                        <UDX.EDXF.MIME_ALT>Link to Product Page</UDX.EDXF.MIME_ALT>
+                    </UDX.EDXF.MIME>
+                    <UDX.EDXF.MIME>
+                        <UDX.EDXF.MIME_SOURCE>
+                            https://www.industry-mobile-support.siemens-info.com/#/en/searchArticle/1FE1064-6WN31-1BA0/technicaldata
+                        </UDX.EDXF.MIME_SOURCE>
+                        <UDX.EDXF.MIME_CODE>MD22</UDX.EDXF.MIME_CODE>
+                        <UDX.EDXF.MIME_FILENAME>no_filename</UDX.EDXF.MIME_FILENAME>
+                        <UDX.EDXF.MIME_DESIGNATION>others</UDX.EDXF.MIME_DESIGNATION>
+                        <UDX.EDXF.MIME_ALT>Link to Technical data</UDX.EDXF.MIME_ALT>
+                    </UDX.EDXF.MIME>
+                    <UDX.EDXF.MIME>
+                        <UDX.EDXF.MIME_SOURCE>
+                            https://www.industry-mobile-support.siemens-info.com/#/en/searchArticle/1FE1064-6WN31-1BA0/pm
+                        </UDX.EDXF.MIME_SOURCE>
+                        <UDX.EDXF.MIME_CODE>MD99</UDX.EDXF.MIME_CODE>
+                        <UDX.EDXF.MIME_FILENAME>no_filename</UDX.EDXF.MIME_FILENAME>
+                        <UDX.EDXF.MIME_DESIGNATION>others</UDX.EDXF.MIME_DESIGNATION>
+                        <UDX.EDXF.MIME_ALT>Link to product note</UDX.EDXF.MIME_ALT>
+                    </UDX.EDXF.MIME>
+                </UDX.EDXF.MIME_INFO>
+                <UDX.EDXF.MANUFACTURER_ACRONYM>Siemens AG</UDX.EDXF.MANUFACTURER_ACRONYM>
+                <UDX.EDXF.DESCRIPTION_VERY_SHORT>BUILT-IN SYNCHRONOUS MOTOR,</UDX.EDXF.DESCRIPTION_VERY_SHORT>
+                <UDX.EDXF.DISCOUNT_GROUP>
+                    <UDX.EDXF.DISCOUNT_GROUP_MANUFACTURER>761</UDX.EDXF.DISCOUNT_GROUP_MANUFACTURER>
+                    <UDX.EDXF.DISCOUNT_GROUP_SUPPLIER>761</UDX.EDXF.DISCOUNT_GROUP_SUPPLIER>
+                </UDX.EDXF.DISCOUNT_GROUP>
+                <UDX.EDXF.PACKING_UNITS>
+                    <UDX.EDXF.PACKING_UNIT>
+                        <UDX.EDXF.QUANTITY_MIN>1</UDX.EDXF.QUANTITY_MIN>
+                        <UDX.EDXF.QUANTITY_MAX>1</UDX.EDXF.QUANTITY_MAX>
+                        <UDX.EDXF.PACKING_UNIT_CODE>C62</UDX.EDXF.PACKING_UNIT_CODE>
+                        <UDX.EDXF.WEIGHT>15.8</UDX.EDXF.WEIGHT>
+                    </UDX.EDXF.PACKING_UNIT>
+                </UDX.EDXF.PACKING_UNITS>
+                <UDX.EDXF.PRODUCT_LOGISTIC_DETAILS>
+                    <UDX.EDXF.NETWEIGHT>15.8</UDX.EDXF.NETWEIGHT>
+                </UDX.EDXF.PRODUCT_LOGISTIC_DETAILS>
+                <UDX.EDXF.REACH>
+                    <UDX.EDXF.REACH.LISTDATE>2020-11-20</UDX.EDXF.REACH.LISTDATE>
+                    <UDX.EDXF.REACH.INFO>false</UDX.EDXF.REACH.INFO>
+                </UDX.EDXF.REACH>
+            </USER_DEFINED_EXTENSIONS>
+            <PRODUCT_LOGISTIC_DETAILS>
+                <CUSTOMS_TARIFF_NUMBER>
+                    <CUSTOMS_NUMBER>85030099</CUSTOMS_NUMBER>
+                </CUSTOMS_TARIFF_NUMBER>
+                <COUNTRY_OF_ORIGIN>DE</COUNTRY_OF_ORIGIN>
+            </PRODUCT_LOGISTIC_DETAILS>
+        </PRODUCT>
+        <PRODUCT mode="new">
+            <SUPPLIER_PID>1FK21020AG010SA0</SUPPLIER_PID>
+            <PRODUCT_DETAILS>
+                <DESCRIPTION_SHORT>SIMOTICS S-1FK2 HD, SINAMICS S210 1AC 230V/3AC 240V, 0.16 Nm, 3000 rpm
+                </DESCRIPTION_SHORT>
+                <DESCRIPTION_LONG>SIMOTICS S-1FK2 HD Servo motor M0=0.16 Nm PN = 0.05 kW at nN=3000 rpm (200-240 V)
+                    Degree of protection IP65 Cylindrical shaft D8x25 mm Absolute encoder single-turn 22-bit (encoder
+                    AS22DQC) With OCC interface Connector size M12, rotatable Servo motor SIMOTICS S-1FK2 for a wide
+                    range of uses in industrial environments. SIMOTICS S‑1FK2 servomotors are compact synchronous motors
+                    with a high dynamic performance that set themselves apart as a result of their high power density,
+                    degree of protection and overload capability. The motors are available in two variants: as &quot;High
+                    Dynamic&quot; variant (highest dynamic performance as a result of the low intrinsic moment of
+                    inertia for applications demanding a high dynamic performance with low moved masses) - and as &quot;Compact&quot;
+                    variant (precise and stable closed-loop control for medium up to large moved masses as a result of a
+                    medium intrinsic moment of inertia). SIMOTICS S‑1FK2 servomotors fully exploit their strengths in a
+                    system with the SINAMICS S210 converter and simple connection using the one cable connection (OCC):
+                    Advantages include the short control and positioning times, fast and precise correction of
+                    disturbing quantities as well as stable control with a high dynamic performance. The servo motors
+                    can be configured to address a wide range of requirements. For example with and without holding
+                    brake, IP64 or IP65 degree of protection, singleturn or multiturn absolute encoders - to name just a
+                    few. Further, the servomotors are available with a range of shaft heights extending from 20 to 100.
+                    A shaft sealing ring is available to achieve an IP65 degree of protection and for subsequent
+                    mounting at the motor or as spare part. SIMOTICS – the optimum motor for each and every motion
+                    control application.
+                </DESCRIPTION_LONG>
+                <INTERNATIONAL_PID type="gtin">4042948690321</INTERNATIONAL_PID>
+                <SUPPLIER_ALT_PID>1FK2102-0AG01-0SA0</SUPPLIER_ALT_PID>
+                <MANUFACTURER_PID>1FK21020AG010SA0</MANUFACTURER_PID>
+                <MANUFACTURER_NAME>Siemens</MANUFACTURER_NAME>
+                <MANUFACTURER_TYPE_DESCR>SIMOTICS S-1FK2 HD Servo motor M0=0.16 Nm PN = 0.</MANUFACTURER_TYPE_DESCR>
+                <SPECIAL_TREATMENT_CLASS type="SIDAB">false</SPECIAL_TREATMENT_CLASS>
+                <SPECIAL_TREATMENT_CLASS type="ECCN">NONE</SPECIAL_TREATMENT_CLASS>
+                <SPECIAL_TREATMENT_CLASS type="AL">NONE</SPECIAL_TREATMENT_CLASS>
+                <KEYWORD>Siemens</KEYWORD>
+                <KEYWORD>drive technology</KEYWORD>
+                <KEYWORD>motors</KEYWORD>
+                <KEYWORD>Simotics</KEYWORD>
+                <KEYWORD>Simotics S</KEYWORD>
+                <KEYWORD>Simotics S-1FK2</KEYWORD>
+                <KEYWORD>servomotor</KEYWORD>
+                <KEYWORD>Sinamics S210</KEYWORD>
+                <KEYWORD>synchronous motor</KEYWORD>
+                <KEYWORD>High Dynamic</KEYWORD>
+                <KEYWORD>Compact</KEYWORD>
+                <KEYWORD>OCC</KEYWORD>
+                <KEYWORD>One Cable Connection</KEYWORD>
+                <PRODUCT_STATUS type="others">63</PRODUCT_STATUS>
+            </PRODUCT_DETAILS>
+            <PRODUCT_FEATURES>
+                <REFERENCE_FEATURE_SYSTEM_NAME>ETIM-7.0</REFERENCE_FEATURE_SYSTEM_NAME>
+                <REFERENCE_FEATURE_GROUP_ID>EC001851</REFERENCE_FEATURE_GROUP_ID>
+            </PRODUCT_FEATURES>
+            <PRODUCT_ORDER_DETAILS>
+                <ORDER_UNIT>C62</ORDER_UNIT>
+                <CONTENT_UNIT>C62</CONTENT_UNIT>
+                <NO_CU_PER_OU>1</NO_CU_PER_OU>
+                <PRICE_QUANTITY>1</PRICE_QUANTITY>
+                <QUANTITY_MIN>1</QUANTITY_MIN>
+                <QUANTITY_INTERVAL>1</QUANTITY_INTERVAL>
+            </PRODUCT_ORDER_DETAILS>
+            <PRODUCT_PRICE_DETAILS>
+                <DATETIME type="valid_start_date">
+                    <DATE>2018-09-12</DATE>
+                </DATETIME>
+                <DAILY_PRICE>false</DAILY_PRICE>
+                <PRODUCT_PRICE price_type="net_list">
+                    <PRICE_AMOUNT>478.4</PRICE_AMOUNT>
+                    <PRICE_CURRENCY>EUR</PRICE_CURRENCY>
+                    <LOWER_BOUND>1</LOWER_BOUND>
+                </PRODUCT_PRICE>
+            </PRODUCT_PRICE_DETAILS>
+            <USER_DEFINED_EXTENSIONS>
+                <UDX.EDXF.MIME_INFO>
+                    <UDX.EDXF.MIME>
+                        <UDX.EDXF.MIME_SOURCE>P_D211_XX_00418I.JPG</UDX.EDXF.MIME_SOURCE>
+                        P_D211_XX_00418P.png
+                        <UDX.EDXF.MIME_CODE>MD02</UDX.EDXF.MIME_CODE>
+                        <UDX.EDXF.MIME_FILENAME>P_D211_XX_00418I.JPG</UDX.EDXF.MIME_FILENAME>
+                        <UDX.EDXF.MIME_DESIGNATION>normal</UDX.EDXF.MIME_DESIGNATION>
+                        <UDX.EDXF.MIME_ALT>Similar figure</UDX.EDXF.MIME_ALT>
+                    </UDX.EDXF.MIME>
+                    <UDX.EDXF.MIME>
+                        <UDX.EDXF.MIME_SOURCE>
+                            https://www.industry-mobile-support.siemens-info.com/#/en/searchArticle/1FK2102-0AG01-0SA0/ae
+                        </UDX.EDXF.MIME_SOURCE>
+                        <UDX.EDXF.MIME_CODE>MD99</UDX.EDXF.MIME_CODE>
+                        <UDX.EDXF.MIME_FILENAME>no_filename</UDX.EDXF.MIME_FILENAME>
+                        <UDX.EDXF.MIME_DESIGNATION>others</UDX.EDXF.MIME_DESIGNATION>
+                        <UDX.EDXF.MIME_ALT>Link to Application example</UDX.EDXF.MIME_ALT>
+                    </UDX.EDXF.MIME>
+                    <UDX.EDXF.MIME>
+                        <UDX.EDXF.MIME_SOURCE>
+                            https://www.industry-mobile-support.siemens-info.com/#/en/searchArticle/1FK2102-0AG01-0SA0/cert
+                        </UDX.EDXF.MIME_SOURCE>
+                        <UDX.EDXF.MIME_CODE>MD09</UDX.EDXF.MIME_CODE>
+                        <UDX.EDXF.MIME_FILENAME>no_filename</UDX.EDXF.MIME_FILENAME>
+                        <UDX.EDXF.MIME_DESIGNATION>others</UDX.EDXF.MIME_DESIGNATION>
+                        <UDX.EDXF.MIME_ALT>Link to Certificates</UDX.EDXF.MIME_ALT>
+                    </UDX.EDXF.MIME>
+                    <UDX.EDXF.MIME>
+                        <UDX.EDXF.MIME_SOURCE>
+                            https://www.industry-mobile-support.siemens-info.com/#/en/searchArticle/1FK2102-0AG01-0SA0/dl
+                        </UDX.EDXF.MIME_SOURCE>
+                        <UDX.EDXF.MIME_CODE>MD99</UDX.EDXF.MIME_CODE>
+                        <UDX.EDXF.MIME_FILENAME>no_filename</UDX.EDXF.MIME_FILENAME>
+                        <UDX.EDXF.MIME_DESIGNATION>others</UDX.EDXF.MIME_DESIGNATION>
+                        <UDX.EDXF.MIME_ALT>Link to Download</UDX.EDXF.MIME_ALT>
+                    </UDX.EDXF.MIME>
+                    <UDX.EDXF.MIME>
+                        <UDX.EDXF.MIME_SOURCE>
+                            https://www.industry-mobile-support.siemens-info.com/#/en/searchArticle/1FK2102-0AG01-0SA0/faq
+                        </UDX.EDXF.MIME_SOURCE>
+                        <UDX.EDXF.MIME_CODE>MD99</UDX.EDXF.MIME_CODE>
+                        <UDX.EDXF.MIME_FILENAME>no_filename</UDX.EDXF.MIME_FILENAME>
+                        <UDX.EDXF.MIME_DESIGNATION>others</UDX.EDXF.MIME_DESIGNATION>
+                        <UDX.EDXF.MIME_ALT>Link to FAQ</UDX.EDXF.MIME_ALT>
+                    </UDX.EDXF.MIME>
+                    <UDX.EDXF.MIME>
+                        <UDX.EDXF.MIME_SOURCE>
+                            https://www.industry-mobile-support.siemens-info.com/#/en/searchArticle/1FK2102-0AG01-0SA0/man
+                        </UDX.EDXF.MIME_SOURCE>
+                        <UDX.EDXF.MIME_CODE>MD32</UDX.EDXF.MIME_CODE>
+                        <UDX.EDXF.MIME_FILENAME>no_filename</UDX.EDXF.MIME_FILENAME>
+                        <UDX.EDXF.MIME_DESIGNATION>others</UDX.EDXF.MIME_DESIGNATION>
+                        <UDX.EDXF.MIME_ALT>Link to Manual</UDX.EDXF.MIME_ALT>
+                    </UDX.EDXF.MIME>
+                    <UDX.EDXF.MIME>
+                        <UDX.EDXF.MIME_SOURCE>https://static.siemens.com/mimes/10001000PNG/P_D211_XX_00418P.png
+                        </UDX.EDXF.MIME_SOURCE>
+                        <UDX.EDXF.MIME_CODE>MD02</UDX.EDXF.MIME_CODE>
+                        <UDX.EDXF.MIME_FILENAME>no_filename</UDX.EDXF.MIME_FILENAME>
+                        <UDX.EDXF.MIME_DESIGNATION>others</UDX.EDXF.MIME_DESIGNATION>
+                        <UDX.EDXF.MIME_ALT>Link to Picture</UDX.EDXF.MIME_ALT>
+                    </UDX.EDXF.MIME>
+                    <UDX.EDXF.MIME>
+                        <UDX.EDXF.MIME_SOURCE>
+                            https://www.industry-mobile-support.siemens-info.com/#/en/product/1FK2102-0AG01-0SA0
+                        </UDX.EDXF.MIME_SOURCE>
+                        <UDX.EDXF.MIME_CODE>MD04</UDX.EDXF.MIME_CODE>
+                        <UDX.EDXF.MIME_FILENAME>no_filename</UDX.EDXF.MIME_FILENAME>
+                        <UDX.EDXF.MIME_DESIGNATION>others</UDX.EDXF.MIME_DESIGNATION>
+                        <UDX.EDXF.MIME_ALT>Link to Product Page</UDX.EDXF.MIME_ALT>
+                    </UDX.EDXF.MIME>
+                    <UDX.EDXF.MIME>
+                        <UDX.EDXF.MIME_SOURCE>
+                            https://www.industry-mobile-support.siemens-info.com/#/en/searchArticle/1FK2102-0AG01-0SA0/technicaldata
+                        </UDX.EDXF.MIME_SOURCE>
+                        <UDX.EDXF.MIME_CODE>MD22</UDX.EDXF.MIME_CODE>
+                        <UDX.EDXF.MIME_FILENAME>no_filename</UDX.EDXF.MIME_FILENAME>
+                        <UDX.EDXF.MIME_DESIGNATION>others</UDX.EDXF.MIME_DESIGNATION>
+                        <UDX.EDXF.MIME_ALT>Link to Technical data</UDX.EDXF.MIME_ALT>
+                    </UDX.EDXF.MIME>
+                    <UDX.EDXF.MIME>
+                        <UDX.EDXF.MIME_SOURCE>
+                            https://www.industry-mobile-support.siemens-info.com/#/en/searchArticle/1FK2102-0AG01-0SA0/pm
+                        </UDX.EDXF.MIME_SOURCE>
+                        <UDX.EDXF.MIME_CODE>MD99</UDX.EDXF.MIME_CODE>
+                        <UDX.EDXF.MIME_FILENAME>no_filename</UDX.EDXF.MIME_FILENAME>
+                        <UDX.EDXF.MIME_DESIGNATION>others</UDX.EDXF.MIME_DESIGNATION>
+                        <UDX.EDXF.MIME_ALT>Link to product note</UDX.EDXF.MIME_ALT>
+                    </UDX.EDXF.MIME>
+                    <UDX.EDXF.MIME>
+                        <UDX.EDXF.MIME_SOURCE>https://bit.ly/2KYUcnV</UDX.EDXF.MIME_SOURCE>
+                        <UDX.EDXF.MIME_CODE>MD45</UDX.EDXF.MIME_CODE>
+                        <UDX.EDXF.MIME_FILENAME>no_filename</UDX.EDXF.MIME_FILENAME>
+                        <UDX.EDXF.MIME_DESIGNATION>others</UDX.EDXF.MIME_DESIGNATION>
+                        <UDX.EDXF.MIME_ALT>SINAMICS S210 Animation</UDX.EDXF.MIME_ALT>
+                    </UDX.EDXF.MIME>
+                    <UDX.EDXF.MIME>
+                        <UDX.EDXF.MIME_SOURCE>https://bit.ly/2znJceF</UDX.EDXF.MIME_SOURCE>
+                        <UDX.EDXF.MIME_CODE>MD45</UDX.EDXF.MIME_CODE>
+                        <UDX.EDXF.MIME_FILENAME>no_filename</UDX.EDXF.MIME_FILENAME>
+                        <UDX.EDXF.MIME_DESIGNATION>others</UDX.EDXF.MIME_DESIGNATION>
+                        <UDX.EDXF.MIME_ALT>SINAMICS S210 Mister Automation TIA Portal Technology objects
+                        </UDX.EDXF.MIME_ALT>
+                    </UDX.EDXF.MIME>
+                    <UDX.EDXF.MIME>
+                        <UDX.EDXF.MIME_SOURCE>https://bit.ly/2NmVhIU</UDX.EDXF.MIME_SOURCE>
+                        <UDX.EDXF.MIME_CODE>MD45</UDX.EDXF.MIME_CODE>
+                        <UDX.EDXF.MIME_FILENAME>no_filename</UDX.EDXF.MIME_FILENAME>
+                        <UDX.EDXF.MIME_DESIGNATION>others</UDX.EDXF.MIME_DESIGNATION>
+                        <UDX.EDXF.MIME_ALT>SINAMICS S210 Tutorial Commissioning</UDX.EDXF.MIME_ALT>
+                    </UDX.EDXF.MIME>
+                </UDX.EDXF.MIME_INFO>
+                <UDX.EDXF.MANUFACTURER_ACRONYM>Siemens AG</UDX.EDXF.MANUFACTURER_ACRONYM>
+                <UDX.EDXF.DESCRIPTION_VERY_SHORT>Synchronous motor 1FK2-HD 0,16 Nm</UDX.EDXF.DESCRIPTION_VERY_SHORT>
+                <UDX.EDXF.DISCOUNT_GROUP>
+                    <UDX.EDXF.DISCOUNT_GROUP_MANUFACTURER>DMM</UDX.EDXF.DISCOUNT_GROUP_MANUFACTURER>
+                    <UDX.EDXF.DISCOUNT_GROUP_SUPPLIER>DMM</UDX.EDXF.DISCOUNT_GROUP_SUPPLIER>
+                </UDX.EDXF.DISCOUNT_GROUP>
+                <UDX.EDXF.PACKING_UNITS>
+                    <UDX.EDXF.PACKING_UNIT>
+                        <UDX.EDXF.QUANTITY_MIN>1</UDX.EDXF.QUANTITY_MIN>
+                        <UDX.EDXF.QUANTITY_MAX>1</UDX.EDXF.QUANTITY_MAX>
+                        <UDX.EDXF.PACKING_UNIT_CODE>C62</UDX.EDXF.PACKING_UNIT_CODE>
+                        <UDX.EDXF.WEIGHT>1.66</UDX.EDXF.WEIGHT>
+                        <UDX.EDXF.LENGTH>0.452</UDX.EDXF.LENGTH>
+                        <UDX.EDXF.WIDTH>0.25</UDX.EDXF.WIDTH>
+                        <UDX.EDXF.DEPTH>0.267</UDX.EDXF.DEPTH>
+                        <UDX.EDXF.GTIN>4042948690321</UDX.EDXF.GTIN>
+                    </UDX.EDXF.PACKING_UNIT>
+                </UDX.EDXF.PACKING_UNITS>
+                <UDX.EDXF.PRODUCT_LOGISTIC_DETAILS>
+                    <UDX.EDXF.NETWEIGHT>0.47</UDX.EDXF.NETWEIGHT>
+                </UDX.EDXF.PRODUCT_LOGISTIC_DETAILS>
+                <UDX.EDXF.REACH>
+                    <UDX.EDXF.REACH.LISTDATE>2020-11-20</UDX.EDXF.REACH.LISTDATE>
+                    <UDX.EDXF.REACH.INFO>false</UDX.EDXF.REACH.INFO>
+                </UDX.EDXF.REACH>
+            </USER_DEFINED_EXTENSIONS>
+            <PRODUCT_REFERENCE type="accessories">
+                <PROD_ID_TO>6SL30544AG002AA0</PROD_ID_TO>
+            </PRODUCT_REFERENCE>
+            <PRODUCT_REFERENCE type="mandatory">
+                <PROD_ID_TO>6SL32105HB101UF0</PROD_ID_TO>
+            </PRODUCT_REFERENCE>
+            <PRODUCT_REFERENCE type="accessories">
+                <PROD_ID_TO>6SL32000AE610AA0</PROD_ID_TO>
+            </PRODUCT_REFERENCE>
+            <PRODUCT_LOGISTIC_DETAILS>
+                <CUSTOMS_TARIFF_NUMBER>
+                    <CUSTOMS_NUMBER>85015100</CUSTOMS_NUMBER>
+                </CUSTOMS_TARIFF_NUMBER>
+                <COUNTRY_OF_ORIGIN>RO</COUNTRY_OF_ORIGIN>
+            </PRODUCT_LOGISTIC_DETAILS>
+        </PRODUCT>
+        <PRODUCT mode="new">
+            <SUPPLIER_PID>1FK21020AG011MA0</SUPPLIER_PID>
+            <PRODUCT_DETAILS>
+                <DESCRIPTION_SHORT>SIMOTICS S-1FK2 HD, SINAMICS S210 1AC 230V/3AC 240V, 0.16 Nm, 3000 rpm
+                </DESCRIPTION_SHORT>
+                <DESCRIPTION_LONG>SIMOTICS S-1FK2 HD Servo motor M0=0.16 Nm PN = 0.05 kW at nN=3000 rpm (200-240 V)
+                    Degree of protection IP65 Shaft D8x25mm with fitted key Absolute encoder 22-bit + 12-bit Multi-turn
+                    (encoder AM22DQC) With OCC interface Connector size M12, rotatable Servo motor SIMOTICS S-1FK2 for a
+                    wide range of uses in industrial environments. SIMOTICS S‑1FK2 servomotors are compact synchronous
+                    motors with a high dynamic performance that set themselves apart as a result of their high power
+                    density, degree of protection and overload capability. The motors are available in two variants: as
+                    &quot;High Dynamic&quot; variant (highest dynamic performance as a result of the low intrinsic
+                    moment of inertia for applications demanding a high dynamic performance with low moved masses) - and
+                    as &quot;Compact&quot; variant (precise and stable closed-loop control for medium up to large moved
+                    masses as a result of a medium intrinsic moment of inertia). SIMOTICS S‑1FK2 servomotors fully
+                    exploit their strengths in a system with the SINAMICS S210 converter and simple connection using the
+                    one cable connection (OCC): Advantages include the short control and positioning times, fast and
+                    precise correction of disturbing quantities as well as stable control with a high dynamic
+                    performance. The servo motors can be configured to address a wide range of requirements. For example
+                    with and without holding brake, IP64 or IP65 degree of protection, singleturn or multiturn absolute
+                    encoders - to name just a few. Further, the servomotors are available with a range of shaft heights
+                    extending from 20 to 100. A shaft sealing ring is available to achieve an IP65 degree of protection
+                    and for subsequent mounting at the motor or as spare part. SIMOTICS – the optimum motor for each and
+                    every motion control application.
+                </DESCRIPTION_LONG>
+                <INTERNATIONAL_PID type="gtin">4042948690338</INTERNATIONAL_PID>
+                <SUPPLIER_ALT_PID>1FK2102-0AG01-1MA0</SUPPLIER_ALT_PID>
+                <MANUFACTURER_PID>1FK21020AG011MA0</MANUFACTURER_PID>
+                <MANUFACTURER_NAME>Siemens</MANUFACTURER_NAME>
+                <MANUFACTURER_TYPE_DESCR>SIMOTICS S-1FK2 HD Servo motor M0=0.16 Nm PN = 0.</MANUFACTURER_TYPE_DESCR>
+                <SPECIAL_TREATMENT_CLASS type="SIDAB">false</SPECIAL_TREATMENT_CLASS>
+                <SPECIAL_TREATMENT_CLASS type="ECCN">NONE</SPECIAL_TREATMENT_CLASS>
+                <SPECIAL_TREATMENT_CLASS type="AL">NONE</SPECIAL_TREATMENT_CLASS>
+                <KEYWORD>Siemens</KEYWORD>
+                <KEYWORD>drive technology</KEYWORD>
+                <KEYWORD>motors</KEYWORD>
+                <KEYWORD>Simotics</KEYWORD>
+                <KEYWORD>Simotics S</KEYWORD>
+                <KEYWORD>Simotics S-1FK2</KEYWORD>
+                <KEYWORD>servomotor</KEYWORD>
+                <KEYWORD>Sinamics S210</KEYWORD>
+                <KEYWORD>synchronous motor</KEYWORD>
+                <KEYWORD>High Dynamic</KEYWORD>
+                <KEYWORD>Compact</KEYWORD>
+                <KEYWORD>OCC</KEYWORD>
+                <KEYWORD>One Cable Connection</KEYWORD>
+                <PRODUCT_STATUS type="others">63</PRODUCT_STATUS>
+            </PRODUCT_DETAILS>
+            <PRODUCT_FEATURES>
+                <REFERENCE_FEATURE_SYSTEM_NAME>ETIM-7.0</REFERENCE_FEATURE_SYSTEM_NAME>
+                <REFERENCE_FEATURE_GROUP_ID>EC001851</REFERENCE_FEATURE_GROUP_ID>
+            </PRODUCT_FEATURES>
+            <PRODUCT_ORDER_DETAILS>
+                <ORDER_UNIT>C62</ORDER_UNIT>
+                <CONTENT_UNIT>C62</CONTENT_UNIT>
+                <NO_CU_PER_OU>1</NO_CU_PER_OU>
+                <PRICE_QUANTITY>1</PRICE_QUANTITY>
+                <QUANTITY_MIN>1</QUANTITY_MIN>
+                <QUANTITY_INTERVAL>1</QUANTITY_INTERVAL>
+            </PRODUCT_ORDER_DETAILS>
+            <PRODUCT_PRICE_DETAILS>
+                <DATETIME type="valid_start_date">
+                    <DATE>2018-09-12</DATE>
+                </DATETIME>
+                <DAILY_PRICE>false</DAILY_PRICE>
+                <PRODUCT_PRICE price_type="net_list">
+                    <PRICE_AMOUNT>657.47</PRICE_AMOUNT>
+                    <PRICE_CURRENCY>EUR</PRICE_CURRENCY>
+                    <LOWER_BOUND>1</LOWER_BOUND>
+                </PRODUCT_PRICE>
+            </PRODUCT_PRICE_DETAILS>
+            <USER_DEFINED_EXTENSIONS>
+                <UDX.EDXF.MIME_INFO>
+                    <UDX.EDXF.MIME>
+                        <UDX.EDXF.MIME_SOURCE>P_D211_XX_00418I.JPG</UDX.EDXF.MIME_SOURCE>
+                        <UDX.EDXF.MIME_CODE>MD02</UDX.EDXF.MIME_CODE>
+                        <UDX.EDXF.MIME_FILENAME>P_D211_XX_00418I.JPG</UDX.EDXF.MIME_FILENAME>
+                        <UDX.EDXF.MIME_DESIGNATION>normal</UDX.EDXF.MIME_DESIGNATION>
+                        <UDX.EDXF.MIME_ALT>Similar figure</UDX.EDXF.MIME_ALT>
+                    </UDX.EDXF.MIME>
+                    <UDX.EDXF.MIME>
+                        <UDX.EDXF.MIME_SOURCE>
+                            https://www.industry-mobile-support.siemens-info.com/#/en/searchArticle/1FK2102-0AG01-1MA0/ae
+                        </UDX.EDXF.MIME_SOURCE>
+                        <UDX.EDXF.MIME_CODE>MD99</UDX.EDXF.MIME_CODE>
+                        <UDX.EDXF.MIME_FILENAME>no_filename</UDX.EDXF.MIME_FILENAME>
+                        <UDX.EDXF.MIME_DESIGNATION>others</UDX.EDXF.MIME_DESIGNATION>
+                        <UDX.EDXF.MIME_ALT>Link to Application example</UDX.EDXF.MIME_ALT>
+                    </UDX.EDXF.MIME>
+                    <UDX.EDXF.MIME>
+                        <UDX.EDXF.MIME_SOURCE>
+                            https://www.industry-mobile-support.siemens-info.com/#/en/searchArticle/1FK2102-0AG01-1MA0/cert
+                        </UDX.EDXF.MIME_SOURCE>
+                        <UDX.EDXF.MIME_CODE>MD09</UDX.EDXF.MIME_CODE>
+                        <UDX.EDXF.MIME_FILENAME>no_filename</UDX.EDXF.MIME_FILENAME>
+                        <UDX.EDXF.MIME_DESIGNATION>others</UDX.EDXF.MIME_DESIGNATION>
+                        <UDX.EDXF.MIME_ALT>Link to Certificates</UDX.EDXF.MIME_ALT>
+                    </UDX.EDXF.MIME>
+                    <UDX.EDXF.MIME>
+                        <UDX.EDXF.MIME_SOURCE>
+                            https://www.industry-mobile-support.siemens-info.com/#/en/searchArticle/1FK2102-0AG01-1MA0/dl
+                        </UDX.EDXF.MIME_SOURCE>
+                        <UDX.EDXF.MIME_CODE>MD99</UDX.EDXF.MIME_CODE>
+                        <UDX.EDXF.MIME_FILENAME>no_filename</UDX.EDXF.MIME_FILENAME>
+                        <UDX.EDXF.MIME_DESIGNATION>others</UDX.EDXF.MIME_DESIGNATION>
+                        <UDX.EDXF.MIME_ALT>Link to Download</UDX.EDXF.MIME_ALT>
+                    </UDX.EDXF.MIME>
+                    <UDX.EDXF.MIME>
+                        <UDX.EDXF.MIME_SOURCE>
+                            https://www.industry-mobile-support.siemens-info.com/#/en/searchArticle/1FK2102-0AG01-1MA0/faq
+                        </UDX.EDXF.MIME_SOURCE>
+                        <UDX.EDXF.MIME_CODE>MD99</UDX.EDXF.MIME_CODE>
+                        <UDX.EDXF.MIME_FILENAME>no_filename</UDX.EDXF.MIME_FILENAME>
+                        <UDX.EDXF.MIME_DESIGNATION>others</UDX.EDXF.MIME_DESIGNATION>
+                        <UDX.EDXF.MIME_ALT>Link to FAQ</UDX.EDXF.MIME_ALT>
+                    </UDX.EDXF.MIME>
+                    <UDX.EDXF.MIME>
+                        <UDX.EDXF.MIME_SOURCE>
+                            https://www.industry-mobile-support.siemens-info.com/#/en/searchArticle/1FK2102-0AG01-1MA0/man
+                        </UDX.EDXF.MIME_SOURCE>
+                        <UDX.EDXF.MIME_CODE>MD32</UDX.EDXF.MIME_CODE>
+                        <UDX.EDXF.MIME_FILENAME>no_filename</UDX.EDXF.MIME_FILENAME>
+                        <UDX.EDXF.MIME_DESIGNATION>others</UDX.EDXF.MIME_DESIGNATION>
+                        <UDX.EDXF.MIME_ALT>Link to Manual</UDX.EDXF.MIME_ALT>
+                    </UDX.EDXF.MIME>
+                    <UDX.EDXF.MIME>
+                        <UDX.EDXF.MIME_SOURCE>https://static.siemens.com/mimes/10001000PNG/P_D211_XX_00418P.png
+                        </UDX.EDXF.MIME_SOURCE>
+                        <UDX.EDXF.MIME_CODE>MD02</UDX.EDXF.MIME_CODE>
+                        <UDX.EDXF.MIME_FILENAME>no_filename</UDX.EDXF.MIME_FILENAME>
+                        <UDX.EDXF.MIME_DESIGNATION>others</UDX.EDXF.MIME_DESIGNATION>
+                        <UDX.EDXF.MIME_ALT>Link to Picture</UDX.EDXF.MIME_ALT>
+                    </UDX.EDXF.MIME>
+                    <UDX.EDXF.MIME>
+                        <UDX.EDXF.MIME_SOURCE>
+                            https://www.industry-mobile-support.siemens-info.com/#/en/product/1FK2102-0AG01-1MA0
+                        </UDX.EDXF.MIME_SOURCE>
+                        <UDX.EDXF.MIME_CODE>MD04</UDX.EDXF.MIME_CODE>
+                        <UDX.EDXF.MIME_FILENAME>no_filename</UDX.EDXF.MIME_FILENAME>
+                        <UDX.EDXF.MIME_DESIGNATION>others</UDX.EDXF.MIME_DESIGNATION>
+                        <UDX.EDXF.MIME_ALT>Link to Product Page</UDX.EDXF.MIME_ALT>
+                    </UDX.EDXF.MIME>
+                    <UDX.EDXF.MIME>
+                        <UDX.EDXF.MIME_SOURCE>
+                            https://www.industry-mobile-support.siemens-info.com/#/en/searchArticle/1FK2102-0AG01-1MA0/technicaldata
+                        </UDX.EDXF.MIME_SOURCE>
+                        <UDX.EDXF.MIME_CODE>MD22</UDX.EDXF.MIME_CODE>
+                        <UDX.EDXF.MIME_FILENAME>no_filename</UDX.EDXF.MIME_FILENAME>
+                        <UDX.EDXF.MIME_DESIGNATION>others</UDX.EDXF.MIME_DESIGNATION>
+                        <UDX.EDXF.MIME_ALT>Link to Technical data</UDX.EDXF.MIME_ALT>
+                    </UDX.EDXF.MIME>
+                    <UDX.EDXF.MIME>
+                        <UDX.EDXF.MIME_SOURCE>
+                            https://www.industry-mobile-support.siemens-info.com/#/en/searchArticle/1FK2102-0AG01-1MA0/pm
+                        </UDX.EDXF.MIME_SOURCE>
+                        <UDX.EDXF.MIME_CODE>MD99</UDX.EDXF.MIME_CODE>
+                        <UDX.EDXF.MIME_FILENAME>no_filename</UDX.EDXF.MIME_FILENAME>
+                        <UDX.EDXF.MIME_DESIGNATION>others</UDX.EDXF.MIME_DESIGNATION>
+                        <UDX.EDXF.MIME_ALT>Link to product note</UDX.EDXF.MIME_ALT>
+                    </UDX.EDXF.MIME>
+                    <UDX.EDXF.MIME>
+                        <UDX.EDXF.MIME_SOURCE>https://bit.ly/2KYUcnV</UDX.EDXF.MIME_SOURCE>
+                        <UDX.EDXF.MIME_CODE>MD45</UDX.EDXF.MIME_CODE>
+                        <UDX.EDXF.MIME_FILENAME>no_filename</UDX.EDXF.MIME_FILENAME>
+                        <UDX.EDXF.MIME_DESIGNATION>others</UDX.EDXF.MIME_DESIGNATION>
+                        <UDX.EDXF.MIME_ALT>SINAMICS S210 Animation</UDX.EDXF.MIME_ALT>
+                    </UDX.EDXF.MIME>
+                    <UDX.EDXF.MIME>
+                        <UDX.EDXF.MIME_SOURCE>https://bit.ly/2znJceF</UDX.EDXF.MIME_SOURCE>
+                        <UDX.EDXF.MIME_CODE>MD45</UDX.EDXF.MIME_CODE>
+                        <UDX.EDXF.MIME_FILENAME>no_filename</UDX.EDXF.MIME_FILENAME>
+                        <UDX.EDXF.MIME_DESIGNATION>others</UDX.EDXF.MIME_DESIGNATION>
+                        <UDX.EDXF.MIME_ALT>SINAMICS S210 Mister Automation TIA Portal Technology objects
+                        </UDX.EDXF.MIME_ALT>
+                    </UDX.EDXF.MIME>
+                    <UDX.EDXF.MIME>
+                        <UDX.EDXF.MIME_SOURCE>https://bit.ly/2NmVhIU</UDX.EDXF.MIME_SOURCE>
+                        <UDX.EDXF.MIME_CODE>MD45</UDX.EDXF.MIME_CODE>
+                        <UDX.EDXF.MIME_FILENAME>no_filename</UDX.EDXF.MIME_FILENAME>
+                        <UDX.EDXF.MIME_DESIGNATION>others</UDX.EDXF.MIME_DESIGNATION>
+                        <UDX.EDXF.MIME_ALT>SINAMICS S210 Tutorial Commissioning</UDX.EDXF.MIME_ALT>
+                    </UDX.EDXF.MIME>
+                </UDX.EDXF.MIME_INFO>
+                <UDX.EDXF.MANUFACTURER_ACRONYM>Siemens AG</UDX.EDXF.MANUFACTURER_ACRONYM>
+                <UDX.EDXF.DESCRIPTION_VERY_SHORT>Synchronous motor 1FK2-HD 0,16 Nm</UDX.EDXF.DESCRIPTION_VERY_SHORT>
+                <UDX.EDXF.DISCOUNT_GROUP>
+                    <UDX.EDXF.DISCOUNT_GROUP_MANUFACTURER>DMM</UDX.EDXF.DISCOUNT_GROUP_MANUFACTURER>
+                    <UDX.EDXF.DISCOUNT_GROUP_SUPPLIER>DMM</UDX.EDXF.DISCOUNT_GROUP_SUPPLIER>
+                </UDX.EDXF.DISCOUNT_GROUP>
+                <UDX.EDXF.PACKING_UNITS>
+                    <UDX.EDXF.PACKING_UNIT>
+                        <UDX.EDXF.QUANTITY_MIN>1</UDX.EDXF.QUANTITY_MIN>
+                        <UDX.EDXF.QUANTITY_MAX>1</UDX.EDXF.QUANTITY_MAX>
+                        <UDX.EDXF.PACKING_UNIT_CODE>C62</UDX.EDXF.PACKING_UNIT_CODE>
+                        <UDX.EDXF.WEIGHT>1.66</UDX.EDXF.WEIGHT>
+                        <UDX.EDXF.LENGTH>0.452</UDX.EDXF.LENGTH>
+                        <UDX.EDXF.WIDTH>0.25</UDX.EDXF.WIDTH>
+                        <UDX.EDXF.DEPTH>0.267</UDX.EDXF.DEPTH>
+                        <UDX.EDXF.GTIN>4042948690338</UDX.EDXF.GTIN>
+                    </UDX.EDXF.PACKING_UNIT>
+                </UDX.EDXF.PACKING_UNITS>
+                <UDX.EDXF.PRODUCT_LOGISTIC_DETAILS>
+                    <UDX.EDXF.NETWEIGHT>0.47</UDX.EDXF.NETWEIGHT>
+                </UDX.EDXF.PRODUCT_LOGISTIC_DETAILS>
+                <UDX.EDXF.REACH>
+                    <UDX.EDXF.REACH.LISTDATE>2020-11-20</UDX.EDXF.REACH.LISTDATE>
+                    <UDX.EDXF.REACH.INFO>false</UDX.EDXF.REACH.INFO>
+                </UDX.EDXF.REACH>
+            </USER_DEFINED_EXTENSIONS>
+            <PRODUCT_REFERENCE type="mandatory">
+                <PROD_ID_TO>6SL32105HB101UF0</PROD_ID_TO>
+            </PRODUCT_REFERENCE>
+            <PRODUCT_REFERENCE type="accessories">
+                <PROD_ID_TO>6SL32000AE610AA0</PROD_ID_TO>
+            </PRODUCT_REFERENCE>
+            <PRODUCT_LOGISTIC_DETAILS>
+                <CUSTOMS_TARIFF_NUMBER>
+                    <CUSTOMS_NUMBER>85015100</CUSTOMS_NUMBER>
+                </CUSTOMS_TARIFF_NUMBER>
+                <COUNTRY_OF_ORIGIN>RO</COUNTRY_OF_ORIGIN>
+            </PRODUCT_LOGISTIC_DETAILS>
+        </PRODUCT>
+    </T_NEW_CATALOG>
+</BMECAT>

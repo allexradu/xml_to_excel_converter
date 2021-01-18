@@ -3,7 +3,7 @@ class Product(object):
     def __init__(self, product_id, international_pid, manufacturer_pid, short_description, long_description,
                  manufacturer_name, manufacturer_type_descr, meta_key_words, order_unit, content_unit,
                  number_cu_per_ou, price_quantity, quantity_min, quantity_interval, price_amount, price_currency, tax,
-                 photo_normal, photo_detail, data_sheet, volume, weight, length, width, depth):
+                 photo_normal, volume, weight, length, width, depth, photo_detail = None, data_sheet = None):
         self.product_id = product_id
         self.international_pid = international_pid
         self.manufacturer_pid = manufacturer_pid

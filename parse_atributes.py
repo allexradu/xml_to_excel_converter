@@ -1,14 +1,18 @@
 import xml.etree.ElementTree as Et
-import platform
 import openpyxl as xl
 import json
+import os
 
-xml_file = 'xml\\a.xml' if platform.system() == 'Windows' else 'xml/a.xml'
-table_location = 'excel\\atrib.xlsx' if platform.system() == 'Windows' else 'excel/atrib.xlsx'
-json_file = 'json\\etim.json' if platform.system() == 'Windows' else 'json/etim.json'
+xml_file = os.path.join(os.getcwd(), 'xml', 'a.xml')
+table_location = os.path.join(os.getcwd(), 'excel', 'atrib.xlsx')
+json_file = os.path.join(os.getcwd(), 'json', 'etim.json')
+json_file_ro = os.path.join(os.getcwd(), 'json', 'etim_ro.json')
 
 with open(json_file) as f:
     etim = json.load(f)
+
+with open(json_file_ro) as f:
+    etim_ro = json.load(f)
 
 product_tree = Et.parse(xml_file)
 root = product_tree.getroot()
@@ -27,13 +31,24 @@ for each_product in catalog.findall('PRODUCT'):
     features = each_product.find('PRODUCT_FEATURES').findall('FEATURE')
     for feature in features:
         feature_name = feature.find('FNAME')
-        sh.cell(current_row, current_col).value = etim['features'][feature_name.text] if feature_name.text not in [
-            '-'] else feature_name.text
+        d_feature = ''
+        if feature_name.text in etim_ro['features'].keys():
+            d_feature = etim_ro['features'][feature_name.text]
+        elif feature_name.text in etim['features'].keys():
+            d_feature = etim['features'][feature_name.text]
+        else:
+            d_feature = 'n/a'
+        sh.cell(current_row, current_col).value = d_feature
+
         values_tags = feature.findall('FVALUE')
         values = []
         for value in values_tags:
             if value.text[:2] == 'EV':
-                values.append(etim['values'][value.text])
+                if value.text in etim_ro['values'].keys():
+                    values.append(etim_ro['values'][value.text])
+                else:
+                    values.append(etim['values'][value.text])
+
             else:
                 values.append(value.text)
         final_value = '<br>'.join(values)
